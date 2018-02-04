@@ -9,11 +9,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Malvina"
+title                    : "Malvina Nissim"
 title_separator          : "-"
 name                     : "Malvina Nissim"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "The website of an academic"
+url                      : # the base hostname & protocol for your site e.g. "https://malvinanissim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -87,7 +87,7 @@ author:
   name             : "Malvina Nissim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an Associate Professor in Computational Linguistics at the University of Groningen."
-  location         : "Somewhere"
+  location         : "The Netherlands"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
