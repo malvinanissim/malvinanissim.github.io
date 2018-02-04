@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Malvina"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Malvina Nissim"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -84,9 +84,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Malvina Nissim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "I am an Associate Professor in Computational Linguistics at the University of Groningen."
   location         : "Somewhere"
   email            :
   uri              :
