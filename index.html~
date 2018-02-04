@@ -9,7 +9,7 @@ header:
   caption:
 excerpt: 'Associate Professor in Computational Linguistics<br />University of Groningen<br /> </small><br /><br /> {::nomarkdown}{:/nomarkdown}'
 feature_row:
-  - image_path: Images/tedx.JPG
+  - image_path: Images/tedx.png
     alt: "TEDx Talk"
     title: "TEDx Talk"
     excerpt: "I recently gave a TEDx Talk (TEDxUniversityofGroningen) on Language, Humans, and AI"
