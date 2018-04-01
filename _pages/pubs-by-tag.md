@@ -4,13 +4,7 @@ title: "Tags"
 permalink: /publications/pubs-by-tags/
 ---
 
----
-layout: page
-title: Tags
-permalink: /tags/
----
-
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 {% include group-by-array.html collection=site.posts field='tags' %}
 
