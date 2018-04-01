@@ -11,7 +11,7 @@ permalink: /publications/pubs-by-tags/
 
 {% for tag in group_names %}
     {% assign posts = group_items[forloop.index0] %}
-    <h2 id="{{ tag }}" class="archive__subtitle">{{ tag }}</h2>
+    <h2 id="{{ tag }}">{{ tag }}</h2>
     <ul>
         {% for post in posts %}
         <li>
