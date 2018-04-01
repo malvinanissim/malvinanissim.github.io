@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "Publications by year"
 permalink: /publications/pubs-by-year/
 author_profile: true
