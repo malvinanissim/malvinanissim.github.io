@@ -25,7 +25,7 @@ cases to drive the __automatic generation__ of new complex test cases at a low
 <ul>
   {% for post in site.categories.journal %}
     {% if post.url %}
-        <li>{{ post.excerpt }}</li>
+        <li>{{ post.excerpt }} {{ post.title }}</li>
     {% endif %}
   {% endfor %}
 </ul>
