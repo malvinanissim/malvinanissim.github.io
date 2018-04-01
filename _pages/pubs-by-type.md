@@ -6,6 +6,16 @@ permalink: /publications/pubs-by-type/
 
 {% include base_path %}
 
+{% include group-by-array collection=site.posts field="categories" %}
+
+{% for category in group_names %}
+  {% assign posts = group_items[forloop.index0] %}
+  <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
+  {% for post in posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}
+
 <section class="page__content" itemprop="text" markdown="1">
 
 
@@ -17,13 +27,13 @@ cases to drive the __automatic generation__ of new complex test cases at a low
 
 </section>
 
-
+<!--
 {% include group-by-array collection=site.posts field="categories" %}
 
 {% for post in site.posts %}
 {% include archive-single.html %}
 {% endfor %}
-
+-->
 
 <h3 class="archive__subtitle">Journals</h3>
 
@@ -42,6 +52,8 @@ cases to drive the __automatic generation__ of new complex test cases at a low
 
 </div>
 </div>
+
+
 
 <section class="page__content cf" itemprop="text" markdown="1">
 
