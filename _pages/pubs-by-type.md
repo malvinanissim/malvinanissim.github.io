@@ -18,8 +18,6 @@ cases to drive the __automatic generation__ of new complex test cases at a low
 </section>
 
 
-<h3 class="archive__subtitle">Journals</h3>
-
 {% include group-by-array collection=site.posts field="categories" %}
 
 {% for post in site.posts %}
@@ -27,6 +25,7 @@ cases to drive the __automatic generation__ of new complex test cases at a low
 {% endfor %}
 
 
+<h3 class="archive__subtitle">Journals</h3>
 
 <div class="cf"> 
 <div class="grid__wrapper">
