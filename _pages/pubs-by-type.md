@@ -5,10 +5,6 @@ permalink: /publications/pubs-by-type/
 ---
 
 {% include base_path %}
-{% for post in site.posts %}
-{% include archive-single.html %}
-{% endfor %}
-
 
 <section class="page__content" itemprop="text" markdown="1">
 
@@ -25,6 +21,12 @@ cases to drive the __automatic generation__ of new complex test cases at a low
 <h3 class="archive__subtitle">Journals</h3>
 
 {% include group-by-array collection=site.posts field="categories" %}
+
+{% for post in site.posts %}
+{% include archive-single.html %}
+{% endfor %}
+
+
 
 <div class="cf"> 
 <div class="grid__wrapper">
