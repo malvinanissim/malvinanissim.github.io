@@ -1,16 +1,28 @@
 ---
 layout: archive
-title: "Tags"
+title: "Publications by topic"
 permalink: /publications/pubs-by-tags/
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
-{% include group-by-array collection=site.posts field='tags' %}
+{% include group-by-array.html collection=site.posts field='tags' %}
 
-{% for post in site.posts %}
-{% include archive-single.html %}
-{% endfor %}
+<ul>
+  {% for tag in group_names %}
+    {% assign posts = group_items[forloop.index0] %}
+    <li>
+      <h2>{{ tag }}</h2>
+      <ul>
+        {% for post in posts %}
+        <li>
+          <a href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </li>
+  {% endfor %}
+</ul>
 
 
 

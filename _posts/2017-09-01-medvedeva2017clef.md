@@ -1,12 +1,12 @@
 ---
-title: "Malvina Nissim, Lasha Abzianidze, Kilian Evang, Rob van der Goot, Hessel Haagsma, Barbara Plank and Martijn Wieling. Sharing is Caring: The Future of Shared Tasks. Computational Linguistics (Last Words), Vol. 43, No. 4, pp. 897–904. December 2017."
+title: "CLEF paper"
 categories: 
-  - journal
+  - conference
 tags:
-  - shared task
-  - ethics
+  - cross-genre
+  - profiling
   - benchmarking
-excerpt: '<a href="https://mmistakes.github.io/minimal-mistakes/docs/collections/">hello</a>'
+excerpt: ""
 ---
 
 Malvina Nissim, Lasha Abzianidze, Kilian Evang, Rob van der Goot, Hessel Haagsma, Barbara Plank and Martijn Wieling. Sharing is Caring: The Future of Shared Tasks. Computational Linguistics (Last Words), Vol. 43, No. 4, pp. 897–904. December 2017.
