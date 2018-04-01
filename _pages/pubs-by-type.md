@@ -36,7 +36,7 @@ cases to drive the __automatic generation__ of new complex test cases at a low
 <ul>
   {% for post in site.categories.conference %}
     {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        <li>{{ post.title }}</li>
     {% endif %}
   {% endfor %}
 </ul>
