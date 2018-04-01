@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Pubs" 
-permalink: /pubs/
+permalink: /publications/pubs-by-type/
 ---
 
 {% include base_path %}
