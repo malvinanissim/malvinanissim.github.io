@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Pubs" 
 permalink: /publications/pubs-by-type/
 toc: true
