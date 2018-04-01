@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Publications by year"
 permalink: /publications/pubs-by-year/
 toc: true
