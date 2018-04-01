@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Tags"
+title: "Publications by topic"
 permalink: /publications/pubs-by-tags/
 ---
 
