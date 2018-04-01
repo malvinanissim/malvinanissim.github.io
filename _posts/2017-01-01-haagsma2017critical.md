@@ -1,27 +1,10 @@
 ---
-title: "CLEF paper"
+title: "Hessel Haagsma and Malvina Nissim. A Critical Assessment of a Method for Detecting Diachronic Meaning Shifts: Lessons Learnt from Experiments on Dutch. *Computational Linguistics in the Netherlands Journal (CLIN)*, Vol. 7, pp. 65–78. 2017."
 categories: 
   - journal
 tags:
-  - cross-genre
-  - profiling
-  - benchmarking
+  - distributional semantics
+  - diachrony
+  - figurative
 excerpt: ""
 ---
-
-Malvina Nissim, Lasha Abzianidze, Kilian Evang, Rob van der Goot, Hessel Haagsma, Barbara Plank and Martijn Wieling. Sharing is Caring: The Future of Shared Tasks. Computational Linguistics (Last Words), Vol. 43, No. 4, pp. 897–904. December 2017.
-
-
-* Lists within lists do not break the ordered list numbering order
-* Your list styles go deep enough.
-
-### Ordered -- Unordered -- Ordered
-
-1. ordered item
-2. ordered item 
-  * **unordered**
-  * **unordered** 
-    1. ordered item
-    2. ordered item
-3. ordered item
-4. ordered item
