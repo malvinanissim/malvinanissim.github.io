@@ -1,7 +1,7 @@
 ---
 title: "CLEF paper"
 categories: 
-  - conference
+  - journal
 tags:
   - cross-genre
   - profiling
