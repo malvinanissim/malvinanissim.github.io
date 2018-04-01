@@ -3,6 +3,7 @@ layout: single
 title: "Pubs" 
 permalink: /publications/pubs-by-type/
 toc: true
+toc_label: "Pub Types"
 ---
 
 {% include base_path %}
