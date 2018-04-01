@@ -22,16 +22,13 @@ cases to drive the __automatic generation__ of new complex test cases at a low
 
 <h3 class="archive__subtitle">Journals</h3>
 
-
-{% for category in group_names %}
-  <!-- only research -->
-  {% if category contains site.journal %}
-    {% assign posts = group_items[forloop.index0] %}
-    {% for post in posts %}
-    {% include archive-single.html %}
-    {% endfor %}
-  {% endif %}
-{% endfor %}
+<ul>
+  {% for post in site.categories.journal %}
+    {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
 
 
