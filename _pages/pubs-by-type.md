@@ -2,6 +2,7 @@
 layout: archive
 title: "Pubs" 
 permalink: /publications/pubs-by-type/
+toc: true
 ---
 
 {% include base_path %}
@@ -20,7 +21,7 @@ cases to drive the __automatic generation__ of new complex test cases at a low
 
 </section>
 
-<h2 class="archive__subtitle">Journals</h2>
+<h2 class="archive__subtitle" id="journals">Journals</h2>
 
 <ul>
   {% for post in site.categories.journal %}
@@ -30,7 +31,7 @@ cases to drive the __automatic generation__ of new complex test cases at a low
   {% endfor %}
 </ul>
 
-<h2 class="archive__subtitle">Conferences and Workshops</h2>
+<h2 class="archive__subtitle" id="conferences">Conferences and Workshops</h2>
 
 <ul>
   {% for post in site.categories.conference %}
