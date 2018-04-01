@@ -5,6 +5,6 @@ categories:
 tags:
   - distributional semantics
   - diachrony
-  - figurative
+  - figurative language
 excerpt: ""
 ---
