@@ -3,6 +3,7 @@ layout: single
 title: "Publications by topic"
 permalink: /publications/pubs-by-tags/
 toc: true
+toc_label: "Tags"
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}
