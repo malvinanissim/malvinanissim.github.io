@@ -2,6 +2,7 @@
 layout: archive
 title: "Publications by year"
 permalink: /publications/pubs-by-year/
+toc: true
 author_profile: true
 ---
 
