@@ -5,6 +5,9 @@ permalink: /publications/pubs-by-type/
 ---
 
 {% include base_path %}
+{% for post in site.posts %}
+{% include archive-single.html %}
+{% endfor %}
 
 
 <section class="page__content" itemprop="text" markdown="1">
