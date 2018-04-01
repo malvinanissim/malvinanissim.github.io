@@ -1,11 +1,11 @@
 ---
-title: "Angelo Basile, Tommaso Caselli, and Malvina Nissim. Predicting Controversial News Using Facebook Reactions. In <i>Proceedings of the Fourth Italian Conference on Computational Linguistics (CLiC-it 2017)</i>. 2017."
+title: "Lennart Kloppenburg and <strong>Malvina Nissim</strong>. Leveraging Native Data to Correct Preposition Errors in Learners’ Dutch. In <em>Proceedings of LREC 2016</em>. Portorož, Slovenia. 2016."
 categories: 
   - conference
 tags:
-  - social media
-  - emotions
-  - controversy
+  - language learning
+  - language modelling
+  - Dutch
 excerpt: ""
 ---
 
