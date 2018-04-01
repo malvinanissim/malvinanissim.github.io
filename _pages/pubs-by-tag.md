@@ -1,7 +1,8 @@
 ---
-layout: archive
+layout: single
 title: "Publications by topic"
 permalink: /publications/pubs-by-tags/
+toc: true
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}
