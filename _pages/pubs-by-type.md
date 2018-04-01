@@ -20,10 +20,20 @@ cases to drive the __automatic generation__ of new complex test cases at a low
 
 </section>
 
-<h3 class="archive__subtitle">Journals</h3>
+<h2 class="archive__subtitle">Journals</h2>
 
 <ul>
   {% for post in site.categories.journal %}
+    {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<h2 class="archive__subtitle">Conferences and Workshop</h2>
+
+<ul>
+  {% for post in site.categories.conference %}
     {% if post.url %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
