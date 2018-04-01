@@ -24,5 +24,14 @@ permalink: /publications/pubs-by-tags/
   {% endfor %}
 </ul>
 
-
+{% for tag in group_names %}
+ <h2 id="{{ year.name | slugify }}" class="archive__subtitle">{{ year.name }}</h2>
+  <ul>
+  {% for post in year.items %}
+  {% if post.url %}
+        <li>{{ post.title }} {{ post.excerpt }}</li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+{% endfor %}
 
