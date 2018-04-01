@@ -25,13 +25,15 @@ permalink: /publications/pubs-by-tags/
 </ul>
 
 {% for tag in group_names %}
- <h2 id="{{ tag.name | slugify }}" class="archive__subtitle">{{ tag.name }}</h2>
-  <ul>
-  {% for post in tag.items %}
-  {% if post.url %}
-        <li>{{ post.title }} {{ post.excerpt }}</li>
-    {% endif %}
-  {% endfor %}
-  </ul>
-{% endfor %}
+    {% assign posts = group_items[forloop.index0] %}
+    <h2 id="{{ tag.name | slugify }}" class="archive__subtitle">{{ tag.name }}</h2>
+    <ul>
+        {% for post in posts %}
+        <li>
+          {{ post.title }}
+        </li>
+        {% endfor %}
+    </ul>
+ {% endfor %}
+  
 
