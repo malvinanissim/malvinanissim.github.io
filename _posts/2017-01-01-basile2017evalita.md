@@ -1,27 +1,11 @@
 ---
-title: "CLEF paper"
+title: "Pierpaolo Basile, Malvina Nissim, Viviana Patti, Rachele Sprugnoli, Franco Cutugno. Evalita Goes Social. <i>Italian Journal of Computational Linguistics</i>, Vol. 3, No. 1, pp. 93–127. June 2017."
 categories: 
-  - conference
+  - journal
 tags:
-  - cross-genre
-  - profiling
+  - shared task
+  - Italian
   - benchmarking
 excerpt: ""
 ---
 
-Malvina Nissim, Lasha Abzianidze, Kilian Evang, Rob van der Goot, Hessel Haagsma, Barbara Plank and Martijn Wieling. Sharing is Caring: The Future of Shared Tasks. Computational Linguistics (Last Words), Vol. 43, No. 4, pp. 897–904. December 2017.
-
-
-* Lists within lists do not break the ordered list numbering order
-* Your list styles go deep enough.
-
-### Ordered -- Unordered -- Ordered
-
-1. ordered item
-2. ordered item 
-  * **unordered**
-  * **unordered** 
-    1. ordered item
-    2. ordered item
-3. ordered item
-4. ordered item
