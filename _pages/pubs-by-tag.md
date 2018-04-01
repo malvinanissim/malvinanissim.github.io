@@ -16,7 +16,7 @@ permalink: /publications/pubs-by-tags/
       <ul>
         {% for post in posts %}
         <li>
-          <a href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a>
+          {{ post.title }}
         </li>
         {% endfor %}
       </ul>
