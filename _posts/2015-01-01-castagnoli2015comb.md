@@ -1,11 +1,10 @@
 ---
-title: "Angelo Basile, Tommaso Caselli, and Malvina Nissim. Predicting Controversial News Using Facebook Reactions. In <i>Proceedings of the Fourth Italian Conference on Computational Linguistics (CLiC-it 2017)</i>. 2017."
+title: "Sara Castagnoli, Gianluca Lebani, Alessandro Lenci, Francesca Masini, <strong>Malvina Nissim</strong>, Valentina Piunno. Towards a corpus-based online dictionary of Italian Word Combinations. In <em>Proceedings of Europhras 2015</em>. Malaga, Spain, 2015."
 categories: 
   - conference
 tags:
-  - social media
-  - emotions
-  - controversy
+  - multiword expressions
+  - Italian
 excerpt: ""
 ---
 
