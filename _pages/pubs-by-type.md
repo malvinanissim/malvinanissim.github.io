@@ -27,14 +27,6 @@ cases to drive the __automatic generation__ of new complex test cases at a low
 
 </section>
 
-<!--
-{% include group-by-array collection=site.posts field="categories" %}
-
-{% for post in site.posts %}
-{% include archive-single.html %}
-{% endfor %}
--->
-
 <h3 class="archive__subtitle">Journals</h3>
 
 <div class="cf"> 
