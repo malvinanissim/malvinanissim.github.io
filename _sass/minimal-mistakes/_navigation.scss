@@ -17,6 +17,7 @@
   animation: $intro-transition;
   -webkit-animation-delay: 0.3s;
   animation-delay: 0.3s;
+  background-color: $navigation-background-color;
 
   @include breakpoint($large) {
     padding-left: 1em;
