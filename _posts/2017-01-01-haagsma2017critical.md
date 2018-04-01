@@ -6,5 +6,6 @@ tags:
   - distributional semantics
   - diachrony
   - figurative language
+  - Dutch
 excerpt: ""
 ---
