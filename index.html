@@ -28,6 +28,14 @@ feature_row:
     url: "https://sites.google.com/view/gxg2018"
     btn_class: "btn--primary"
     btn_label: "Learn More and Participate"
+feature_row2:
+  - image_path: Images/tedx.JPG
+    alt: "placeholder image 2"
+    title: "Placeholder Image Left Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 intro:
   - excerpt: 'News'
 
@@ -35,5 +43,7 @@ intro:
 ---
 
 {% include feature_row id="intro" type="right" %}
+
+{% include feature_row2 %}
 
 {% include feature_row %}
