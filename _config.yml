@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Malvina Nissim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "Images/phd-day.jpg"
   bio              : "I am an Associate Professor in Computational Linguistics at the University of Groningen."
   location         : "The Netherlands"
   email            :
