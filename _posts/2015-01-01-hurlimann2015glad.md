@@ -1,11 +1,10 @@
 ---
-title: "Angelo Basile, Tommaso Caselli, and Malvina Nissim. Predicting Controversial News Using Facebook Reactions. In <i>Proceedings of the Fourth Italian Conference on Computational Linguistics (CLiC-it 2017)</i>. 2017."
+title: "Manuela Hürlimann, Benno Weck, Esther van den Berg, Simon Suster and <strong>Malvina Nissim</strong>. GLAD: Groningen Lightweight Authorship Detection. <em>In CLEF 2015 Working Notes</em>, LNCS, Springer. 2015."
 categories: 
   - conference
 tags:
-  - social media
-  - emotions
-  - controversy
+  - attribution
+  - shared task
 excerpt: ""
 ---
 
