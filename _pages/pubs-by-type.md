@@ -2,6 +2,7 @@
 layout: single
 title: "Pubs" 
 permalink: /publications/pubs-by-type/
+author_profile: true
 toc: true
 toc_label: "Pub Types"
 ---
@@ -14,10 +15,7 @@ toc_label: "Pub Types"
 <section class="page__content" itemprop="text" markdown="1">
 
 
-This list of publications __understanding software__
-In particular, in my PhD research I
-harnessed the knowledge about software systems incorporated in existing test
-cases to drive the __automatic generation__ of new complex test cases at a low
+This is a list of my publications organised by venue types.
 {: .text-justify}
 
 </section>
