@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Pubs" 
+title: "Publications by type" 
 permalink: /publications/pubs-by-type/
 author_profile: true
 toc: true
