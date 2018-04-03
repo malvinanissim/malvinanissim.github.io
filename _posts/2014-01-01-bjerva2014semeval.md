@@ -5,6 +5,7 @@ categories:
 tags:
   - semantic similarity
   - textual entailment
+  - shared task
 excerpt: ""
 ---
 
