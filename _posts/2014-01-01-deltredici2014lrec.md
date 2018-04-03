@@ -1,11 +1,10 @@
 ---
-title: "Valerio Basile, Pierpaolo Basile, <strong>Malvina Nissim</strong>, and Nicole Novielli. Deep Tweets: from Entity Linking to Sentiment Analysis. In <em>Proceedings of CLIC-It 2015. Trento, Italy</em>. 2015."
+title: "Marco Del Tredici and <strong>Malvina Nissim</strong>. A Modular System for Rule-based Text Categorisation. In <em>Proceedings of LREC 2014</em>, Reykjavik, Iceland, 2014."
 categories: 
   - conference
 tags:
-  - social media
-  - sentiment analysis
-  - entity linking
+  - text categorisation
+  - Italian
 excerpt: ""
 ---
 
