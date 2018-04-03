@@ -1,11 +1,11 @@
 ---
-title: "Valerio Basile, Pierpaolo Basile, <strong>Malvina Nissim</strong>, and Nicole Novielli. Deep Tweets: from Entity Linking to Sentiment Analysis. In <em>Proceedings of CLIC-It 2015. Trento, Italy</em>. 2015."
+title: "Andrea Zaninello and <strong>Malvina Nissim</strong>. Creation of Lexical Resources for a Characterisation of Multiword Expressions in Italian. In N. Calzolari et al. (eds.), <em>Proceedings of the Seventh conference on International Language Resources and Evaluation (LREC’10)</em>, European Language Resources Association (ELRA), Valletta, Malta, 2010."
 categories: 
   - conference
 tags:
-  - social media
-  - sentiment analysis
-  - entity linking
+  - Italian
+  - multiword expressions
+  - lexical resources
 excerpt: ""
 ---
 
