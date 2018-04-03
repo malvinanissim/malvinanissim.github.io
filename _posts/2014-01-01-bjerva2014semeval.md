@@ -1,11 +1,10 @@
 ---
-title: "Valerio Basile, Pierpaolo Basile, <strong>Malvina Nissim</strong>, and Nicole Novielli. Deep Tweets: from Entity Linking to Sentiment Analysis. In <em>Proceedings of CLIC-It 2015. Trento, Italy</em>. 2015."
+title: "Johannes Bjerva, Johan Bos, Rob van der Goot and <strong>Malvina Nissim</strong>. The Meaning Factory: Formal Semantics for Recognizing Textual Entailment and Determining Semantic Similarity. In <em>Proceedings of SemEval 2014: International Workshop on Semantic Evaluation</em>, pp. 642–646, 2014."
 categories: 
   - conference
 tags:
-  - social media
-  - sentiment analysis
-  - entity linking
+  - semantic similarity
+  - textual entailment
 excerpt: ""
 ---
 
