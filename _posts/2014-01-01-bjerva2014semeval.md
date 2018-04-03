@@ -3,7 +3,7 @@ title: "Johannes Bjerva, Johan Bos, Rob van der Goot and <strong>Malvina Nissim<
 categories: 
   - conference
 tags:
-  - semantic similarity
+  - semantics
   - textual entailment
   - shared task
 excerpt: ""
