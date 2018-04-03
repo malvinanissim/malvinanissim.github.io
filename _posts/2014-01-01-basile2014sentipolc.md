@@ -1,11 +1,11 @@
 ---
-title: "Valerio Basile, Pierpaolo Basile, <strong>Malvina Nissim</strong>, and Nicole Novielli. Deep Tweets: from Entity Linking to Sentiment Analysis. In <em>Proceedings of CLIC-It 2015. Trento, Italy</em>. 2015."
+title: "Valerio Basile, Andrea Bolioli, <strong>Malvina Nissim</strong>, Viviana Patti, Paolo Rosso. Overview of the Evalita 2014 SENTIment POLarity Classification Task. In Cristina Bosco, Piero Cosi, Felice Dell’Orletta, Mauro Falcone, Simonetta Montemagni, Maria Simi (eds.), <em>Proceedings of EVALITA 2014</em>, pp. 50–57, 2014."
 categories: 
   - conference
 tags:
-  - social media
   - sentiment analysis
-  - entity linking
+  - shared task
+  - Italian
 excerpt: ""
 ---
 
