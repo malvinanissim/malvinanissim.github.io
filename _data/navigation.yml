@@ -2,8 +2,6 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Me"
-    url: https://malvinanissim.github.io/about/
   - title: "Research"
     url: /research/
   - title: "Publications"
@@ -12,6 +10,8 @@ main:
     url: /teaching/  
   - title: "Activities"
     url: /activities/
+  - title: "Media"
+    url: /media/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
