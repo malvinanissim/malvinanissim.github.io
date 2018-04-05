@@ -13,7 +13,7 @@ author_profile: true
   <ul>
   {% for post in year.items %}
   {% if post.url %}
-        <li>{{ post.title }} {{ post.excerpt }}</li>
+        <li>{{ post.title }} [{{ post.categories }}]</li>
     {% endif %}
   {% endfor %}
   </ul>
