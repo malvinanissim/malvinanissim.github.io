@@ -9,6 +9,6 @@ author_profile: true
 {% for year in postsByYear %}
   <h2 id="{{ year.name | slugify }}" class="archive__subtitle">{{ year.name }}</h2>
   {% for post in year.items %}
-     {% include page__taxonomy.html %}
+     {% include tag-list.html %}
   {% endfor %}
 {% endfor %}
