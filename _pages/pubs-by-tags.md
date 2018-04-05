@@ -4,6 +4,7 @@ title: "Publications by topic"
 permalink: /publications/pubs-by-tags/
 toc: true
 toc_label: "Tags"
+author_profile: true
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}
