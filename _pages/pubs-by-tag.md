@@ -7,8 +7,6 @@ toc_label: "Tags"
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}
-{% include tag-list.html % }
-
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}
