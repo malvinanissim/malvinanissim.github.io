@@ -3,7 +3,7 @@ layout: single
 title: "Publications by topic"
 permalink: /publications/pubs-by-tags/
 toc: true
-toc_label: "Tags"
+toc_label: "Topics"
 author_profile: true
 ---
 
