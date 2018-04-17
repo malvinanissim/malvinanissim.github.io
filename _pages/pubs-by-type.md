@@ -40,6 +40,15 @@ This is a list of my publications organised by venue types.
   {% endfor %}
 </ul>
 
+<h2 class="archive__subtitle" id="conferences">Book Contributions</h2>
+
+<ul>
+  {% for post in site.categories.book-contribution %}
+    {% if post.url %}
+        <li>{{ post.title }}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
 
 
