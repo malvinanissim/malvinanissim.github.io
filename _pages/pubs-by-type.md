@@ -50,7 +50,7 @@ This is a list of my publications organised by venue types.
   {% endfor %}
 </ul>
 
-<h2 class="archive__subtitle" id="contributions">Edited Volumes</h2>
+<h2 class="archive__subtitle" id="edited">Edited Volumes</h2>
 
 <ul>
   {% for post in site.categories.edited-volume %}
