@@ -60,6 +60,15 @@ This is a list of my publications organised by venue types.
   {% endfor %}
 </ul>
 
+<h2 class="archive__subtitle" id="other">Other</h2>
+
+<ul>
+  {% for post in site.categories.other %}
+    {% if post.url %}
+        <li>{{ post.title }}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
 
 <section class="page__content cf" itemprop="text" markdown="1">
