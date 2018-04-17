@@ -73,9 +73,9 @@ This is a list of my publications organised by venue types.
 
 <section class="page__content cf" itemprop="text" markdown="1">
 
-> "can add quote here"
+> "There are ten parts of speech and they are all troublesome."
 
-<cite>famous author</cite> (date-date) 
+<cite>Mark Twain, The Awful German Language</cite>
 {: .small}
 
 </section>
