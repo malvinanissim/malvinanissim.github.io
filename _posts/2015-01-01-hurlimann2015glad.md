@@ -3,8 +3,8 @@ title: "Manuela Hürlimann, Benno Weck, Esther van den Berg, Simon Suster and <s
 categories: 
   - conference
 tags:
-  - attribution
   - shared task
+  - authorship
 excerpt: ""
 ---
 
