@@ -8,8 +8,8 @@ main:
     url: /publications/
   - title: "Teaching"
     url: /teaching/  
-  - title: "Activities"
-    url: /activities/
+#  - title: "Activities"
+#    url: /activities/
   - title: "Media"
     url: /media/
   # - title: "Sample Collections"
