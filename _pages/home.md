@@ -1,29 +1,28 @@
 ---
 layout: single
-classes: wide
 author_profile: true
 toc: true
 permalink: /
 header:
-      overlay_image: "images/bw.png"
+      overlay_image: "assets/images/bw.png"
       overlay_filter: 0.0
 excerpt: 'CLCG, University of Groningen<br/>'
 feature_row:
-  - image_path: images/dvhj.jpg
+  - image_path: assets/images/dvhj.jpg
     alt: "Lecturer Year"
     title: "Lecturer of the Year"
     excerpt: "I was elected as the 2016 Lecturer of the Year of the University of Groningen"
     url: "https://www.rug.nl/about-us/news-and-events/news/archief2017/nieuwsberichten/dr.-malvina-nissim-elected-lecturer-of-the-year"
     btn_label: "Learn more"
     btn_class: "btn--primary"
-  - image_path: images/tedx.JPG
+  - image_path: assets/images/tedx.JPG
     alt: "TEDx Talk"
     title: "TEDx Talk"
     excerpt: "I recently gave a TEDx Talk on Language, Humans, and AI, and how machines might challenge our stereotypical thinking"
     url: "https://www.youtube.com/watch?v=NcyTQK-FaMM"
     btn_label: "Watch it"
     btn_class: "btn--primary"
-  - image_path: images/pan2017.JPG
+  - image_path: assets/images/pan2017.JPG
     title: "1st @PAN2017"
     alt: "1st @PAN2017"
     url: "http://pan.webis.de/clef17/pan17-web/author-profiling.html"

@@ -2,7 +2,6 @@
 layout: single
 author_profile: true
 title: Teaching
-classes: wide
 permalink: /teaching/
 header: 
        overlay_image: "images/malvina.jpg"

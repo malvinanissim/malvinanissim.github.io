@@ -5,7 +5,7 @@ title: In the media
 toc: true
 permalink: /media/
 header: 
-       overlay_image: "images/phd-day.jpg"
+       overlay_image: "assets/images/phd-day.jpg"
        overlay_filter: 0.1
 ---
 ## Public Lectures
