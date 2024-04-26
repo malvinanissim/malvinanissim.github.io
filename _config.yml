@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Professor in Computational Linguistics and Society at the University of Groningen.
 twitter_username: malvinanissim
 github_username: malvinanissim
-minimal_mistakes_skin: default
+minimal_mistakes_skin: rug
 search: true
 
 # Build settings
@@ -63,13 +63,16 @@ author:
   links:
     - label: "Twitter"
       icon: "fa-brands fa-x-twitter"
-      url: "https://twitter.com/malvinanissim/"
+      url: "https://twitter.com/malvinanissim"
     - label: "GitHub"
       icon: "fa-brands fa-github"
-      url: "https://github.com/malvinanissim/"
-    - label: "RUG Staff page"
+      url: "https://github.com/malvinanissim"
+    - label: "Google Scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: "https://scholar.google.nl/citations?user=hnTpEOAAAAAJ"
+    - label: "Staff page"
       icon: "fa-solid fa-building-columns"
-      url: "https://www.rug.nl/staff/m.nissim/"
+      url: "https://www.rug.nl/staff/m.nissim"
 
 #footer:
 #  links:

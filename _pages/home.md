@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 toc: true
 permalink: /
-header: 
+header:
       overlay_image: "images/bw.png"
       overlay_filter: 0.0
 excerpt: 'CLCG, University of Groningen<br/>'
@@ -69,7 +69,7 @@ Corpus technologies. Digital Humanities and modern knowledge" (ConCorT), Moscow,
     <li>Short Paper on Cross-lingual Gender Prediction accepted at <a href="http://acl2018.org/">ACL 2018</a> in Melbourne! Joint work with Rob van der Goot, Barbara Plank, Nikola Ljubešić, and Ian Matroos.</li>
     <li>On April 12th I have given a talk at the <a href="https://www.rug.nl/about-us/news-and-events/events/education-day/">
       Education Festival</a> of the University of Groningen. This video interview relates to the event:
-      <iframe src="https://www.youtube.com/embed/xE2BBWwGPcU" width="560" height="315" frameborder="0"> </iframe>  
+      <iframe src="https://www.youtube.com/embed/xE2BBWwGPcU" width="560" height="315" frameborder="0"> </iframe>
     <li>I was awarded a <a href="https://www.rug.nl/about-us/where-do-we-stand/quality-works/fellowships-innovation-teaching/">Fellowship for Innovation of Teaching</a> for 2018
     <li><a href="https://peopleswksh.github.io/">PEOPLES 2018</a>, the second workshop on Computational Modeling of People's Emotions, Opinions, and Personality on Social Media, will be co-located with NAACL 2018 in New Orleans, June 6
     <li>I am the General Chair of <a href="https://sites.google.com/view/starsem2018/home">*SEM 2018</a>, the Seventh Joint Conference of Lexical and Computational Semantics, co-located with NAACL in New Orleans, June 5-6
@@ -82,5 +82,3 @@ Corpus technologies. Digital Humanities and modern knowledge" (ConCorT), Moscow,
   <h2 id="highlights">Recent Highlights</h2>
  {% include feature_row %}
  </div>
-
-
