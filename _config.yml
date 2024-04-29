@@ -22,6 +22,11 @@ github_username: malvinanissim
 minimal_mistakes_skin: rug
 search: true
 
+# GitHub Pages settings
+domain: https://malvinanissim.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://malvinanissim.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: / # place folder name if the site is served in a subfolder
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
