@@ -51,22 +51,35 @@ feature_row:
   <br>
   <hr>
 
+
+## News and Recent Events 
+* [Watch Your Language!](https://www.lorentzcenter.nl/watch-your-language-language-technology-and-words-in-society.html)  Interdisciplinary workshop at the [Lorentz Center](https://www.lorentzcenter.nl) in Leiden, April 8-12 2024
+* The [HAICu project](https://www.rug.nl/research/icog/news/2023/vijf-letteren-onderzoekers-betrokken-bij-haicu-consortium?lang=en) is funded! I'm involved as co-applicant, and we are about to open a PhD position on it.
+
+* Keynote at [ESSLLI 2023](https://2023.esslli.eu/): [Plenary Evening Lecture](https://2023.esslli.eu/courses-workshops-accepted/week-1-and-2-schedule/evening-2.html), Ljubljana, Slovenia, August 2023 
+
+<br>
+
 <div class="grid__wrapper">
 
-  <h2 id="news">News and Events</h2>
+  <h2 id="past-events">Past Events</h2>
   <ul>
-<li>  <i class="fa fa-calendar-plus"></i> I am invited as keynote speaker at the <a href="https://www.uio.no/tlt17">2018 International Workshop on Treebanks and Linguistic Theories (TLT)</a>, Oslo, 13-14 December, 2018
-<li>  <i class="fa fa-calendar-plus"></i> I am invited as keynote speaker at the <a href="http://sag.art.uniroma2.it/NL4AI/">NL4AI Workshop</a>, <a href="http://aixia2018.fbk.eu/index.php/home/">AI*IA</a>, Trento, 20-23 November, 2018
-<li>I will be giving a seminar talk at ILCC, University of Edinburgh, November 16th, 2018, Edinburgh, UK
-    <li>I am invited as plenary speaker at the "Conference on
-Corpus technologies. Digital Humanities and modern knowledge" (ConCorT), Moscow, 12-14 October, 2018
-    <li>I am invited as plenary speaker at <a href="http://www.sdjt.si/wp/dogodki/konference/jtdh-2018-english/">
+    <li>Keynote at <a href="https://2023.esslli.eu/">ESSLLI 2023</a>: <a href="https://2023.esslli.eu/courses-workshops-accepted/week-1-and-2-schedule/evening-2.html">Plenary Evening Lecture</a>, Ljubljana, Slovenia, August 2023 
+    <li>Keynote at KONVENS 2022 - Annual Meeting of the German Computational Linguistics Association, Potsdam, Germany, September 2022
+    <li>Keynote at 8th Conf on Computer-Mediated Communication (CMC) and Social Media Corpora, Nijmegen, Netherlands, November 2021
+    <li>Keynote at CILCC 2020: International Congress of Computational and Corpus Linguistics, Medellin (online), Colombia, October 2020.
+    <li>Keynote at 53rd Congress of the Italian Linguistics Society (SLI), Como, Italy, September 2019.
+    <li>Plenary Lecture at Summer school in Natural Language Processing (Python4NLP), Nancy, France, August 2019.
+    <li>  <i class="fa fa-calendar-plus"></i> I was invited as keynote speaker at the <a href="https://www.uio.no/tlt17">2018 International Workshop on Treebanks and Linguistic Theories (TLT)</a>, Oslo, 13-14 December, 2018
+    <li>  <i class="fa fa-calendar-plus"></i> I was invited as keynote speaker at the <a href="http://sag.art.uniroma2.it/NL4AI/">NL4AI Workshop</a>, <a href="http://aixia2018.fbk.eu/index.php/home/">AI*IA</a>, Trento, 20-23 November, 2018
+    <li>I gave a seminar talk at ILCC, University of Edinburgh, November 16th, 2018, Edinburgh, UK
+    <li>I was invited as plenary speaker at the "Conference on Corpus technologies. Digital Humanities and modern knowledge" (ConCorT), Moscow, 12-14 October, 2018
+    <li>I was invited as plenary speaker at <a href="http://www.sdjt.si/wp/dogodki/konference/jtdh-2018-english/">
       Language Technologies and Digital Humanities 2018</a>, Ljubljana, 20-21 September, 2018
-
     <li>I gave a talk at the CLiPS Colloquium in Antwerp on June 26th: "The blessing and the curse of lexical information in author profiling"</li>
     <li>Training data for GxG is available on the <a href="https://sites.google.com/view/gxg2018">website</a>! GxG is the first shared task on cross-genre gender prediction for Italian, and will be organised at <a href="http://www.evalita.it/2018/">EVALITA 2018</a>.
     <li>Short Paper on Cross-lingual Gender Prediction accepted at <a href="http://acl2018.org/">ACL 2018</a> in Melbourne! Joint work with Rob van der Goot, Barbara Plank, Nikola Ljubešić, and Ian Matroos.</li>
-    <li>On April 12th I have given a talk at the <a href="https://www.rug.nl/about-us/news-and-events/events/education-day/">
+    <li>On April 12th I gave a talk at the <a href="https://www.rug.nl/about-us/news-and-events/events/education-day/">
       Education Festival</a> of the University of Groningen. This video interview relates to the event:
       <iframe src="https://www.youtube.com/embed/xE2BBWwGPcU" width="560" height="315" frameborder="0"> </iframe>
     <li>I was awarded a <a href="https://www.rug.nl/about-us/where-do-we-stand/quality-works/fellowships-innovation-teaching/">Fellowship for Innovation of Teaching</a> for 2018
