@@ -24,6 +24,9 @@ sidebar:
 My research interests are in the area of Computational Linguistics, Language Technology, and Digital Humanities. 
 These are topics I work (or have worked) on. Currently more active ones are listed first.
 
+## Style and Style Transfer
+
+
 ## Author Analysis
 I am interested automatic analysis of authorship, both in terms of determining whether two texts are written 
 by the same person or not (_authorship attribution_), as well as in terms of identifying some 
