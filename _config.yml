@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : "Malvina Nissim"
-  avatar : "assets/images/me-ww-small.jpg"
+  avatar : "assets/images/me-ww-small.jpeg"
   bio    : "Professor in Computational Linguistics and Society at the University of Groningen."
   links:
     - label: "Twitter"
