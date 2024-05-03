@@ -15,9 +15,9 @@ main:
     url: /publications/
   - title: "Teaching"
     url: /teaching/
-  - title: "Podcast"
-    url: /podcast/
+#  - title: "Podcast"
+#    url: /podcast/
   - title: "Outreach"
     url: /outreach/
-  - title: "Knitting"
-    url: /knitting/
+  - title: "Personal"
+    url: /personal/

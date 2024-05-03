@@ -15,7 +15,7 @@ feature_row:
   - image_path: assets/images/ams19.jpg
     alt: Running
     title: I Run.
-    url: https://www.ravelry.com/patterns/library/low-contrast
+    url: /running/
     btn_label: Running
     btn_class: btn--primary
   - image_path: assets/images/catan1.jpg
