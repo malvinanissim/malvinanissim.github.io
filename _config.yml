@@ -59,6 +59,7 @@ scholar:
   sort_by: year, month
   order: descending, descending
   group_by: type
+  type_order: [book, article, incollection, inproceedings, thesis, manual, techreport, misc, unpublished]
   query: "@*[author ~= Nissim]"
 
 author:
