@@ -54,9 +54,10 @@ plugins:
   - jekyll-scholar
 
 scholar:
+  remove_duplicates: true
   style: apa
-  sort_by: year,month
-  order: descending
+  sort_by: year, month
+  order: descending, descending
   group_by: type
   query: "@*[author ~= Nissim]"
 
