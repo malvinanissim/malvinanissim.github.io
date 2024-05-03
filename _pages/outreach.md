@@ -1,8 +1,5 @@
 ---
-layout: single
-author_profile: true
 title: Outreach and in the media
-toc: true
 permalink: /outreach/
 header:
   overlay_image: assets/images/phd-day.jpg

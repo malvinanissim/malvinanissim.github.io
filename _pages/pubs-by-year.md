@@ -1,10 +1,7 @@
 ---
-layout: single
 title: "Publications by year"
 permalink: /publications/pubs-by-year/
-toc: true
 toc_label: "Years"
-author_profile: true
 ---
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}

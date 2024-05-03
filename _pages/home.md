@@ -1,15 +1,9 @@
 ---
-layout: single
-author_profile: true
-toc: true
 permalink: /
 header:
   overlay_image: assets/images/bw.png
   overlay_filter: 0
 excerpt: CLCG, University of Groningen<br/>
-sidebar:
-  - text: 
-       <a href="https://www.rug.nl/research/clcg/?lang=en">Center for Language and Cognition Groningen (CLCG)</a>, <a href="https://www.rug.nl/let/?lang=en">Faculty of Arts, University of Groningen</a><br><a href="https://www.rug.nl/staff/location/1311">Harmonie Complex</a><br>Oude Kijk in 't Jatstraat 26<br>9712 EK Groningen, The Netherlands<br><br><i class="fa fa-envelope"></i> m.nissim@rug.nl<br><i class="fa fa-user"></i> office 1311.421 <br>
 feature_row:
   - image_path: assets/images/dvhj.jpg
     alt: Lecturer Year

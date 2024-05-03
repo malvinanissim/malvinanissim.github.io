@@ -2,7 +2,6 @@
 layout: archive
 permalink: /tags/
 title: "Posts by Tag"
-author_profile: true
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}

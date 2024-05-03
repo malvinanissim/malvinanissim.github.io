@@ -1,8 +1,5 @@
 ---
-layout: single
-toc: true
 toc_label: "Topic Overview"
-author_profile: true
 title: "Research"
 permalink: /research/
 header: 
@@ -11,13 +8,13 @@ header:
        cta_label: "celebrating with my students the first place at the PAN 2017 competition on author profiling"
        cta_url: "http://pan.webis.de/clef17/pan17-web/author-profiling.html"
 
-sidebar:
-  - title: "Computational Linguistics in Groningen"
-    image: assets/images/CL.jpg
-    image_alt: "CL"
-    text: 'I am the coordinator of the Computational Linguistics group of <a href="https://www.rug.nl/research/clcg/research/">CLCG</a>'
-  - title: "Social Media Sensing"
-    text: "I am the scientific coordinator of the Social Media Sensing group at the RuG (SMS-RuG)."
+#sidebar:
+#  - title: "Computational Linguistics in Groningen"
+#    image: assets/images/CL.jpg
+#    image_alt: "CL"
+#    text: 'I am the coordinator of the Computational Linguistics group of <a href="https://www.rug.nl/research/clcg/research/">CLCG</a>'
+#  - title: "Social Media Sensing"
+#    text: "I am the scientific coordinator of the Social Media Sensing group at the RuG (SMS-RuG)."
 
 ---
 

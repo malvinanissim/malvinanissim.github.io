@@ -1,9 +1,7 @@
 ---
-layout: single
-author_profile: true
-toc: true
 permalink: /running/
 excerpt: "<br><br>photo: de Helper, Paterswoldsemeer<br/>my favourite running area"
+toc: false
 header:
   overlay_image: assets/images/mill.jpg
   overlay_filter: 0

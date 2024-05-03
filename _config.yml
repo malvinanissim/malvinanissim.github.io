@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Malvina Nissim
 email: m.nissim@rug.nl
-description: >- # this means to ignore newlines until "baseurl:"
-  Professor in Computational Linguistics and Society at the University of Groningen.
+description: Professor in Computational Linguistics and Society at the University of Groningen.
 twitter_username: malvinanissim
 github_username: malvinanissim
 minimal_mistakes_skin: rug
@@ -77,6 +76,12 @@ author:
     - label: "Staff page"
       icon: "fa-solid fa-building-columns"
       url: "https://www.rug.nl/staff/m.nissim"
+    - label: "m.nissim@rug.nl"
+      icon: "fa-solid fa-envelope"
+      url: "mailto:m.nissim@rug.nl"
+    - label: "Office 1311.421</br>Harmonie Complex</br>Oude Kijk in 't Jatstraat 26</br>9712 EK Groningen, The Netherlands"
+      icon: "fa-solid fa-building"
+      url: "https://www.rug.nl/staff/location/1311"
 
 #footer:
 #  links:
@@ -109,6 +114,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+      toc: true
+      sidebar:
+       - text: "[Center for Language and Cognition Groningen (CLCG)](https://www.rug.nl/research/clcg/?lang=en)"
+       - text: "[Faculty of Arts, University of Groningen](https://www.rug.nl/let/?lang=en)"
 
 category_archive:
   type: liquid

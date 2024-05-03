@@ -1,6 +1,4 @@
 ---
-layout: single
-author_profile: true
 toc: false
 permalink: /personal/
 header:

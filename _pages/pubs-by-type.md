@@ -1,9 +1,6 @@
 ---
-layout: single
 title: "Publications by type" 
 permalink: /publications/pubs-by-type/
-author_profile: true
-toc: true
 toc_label: "Pub Types"
 ---
 

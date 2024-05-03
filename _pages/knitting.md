@@ -1,8 +1,6 @@
 ---
-layout: single
-author_profile: true
-toc: true
 permalink: /knitting/
+toc: false
 excerpt: “I will continue to freak out my children by knitting in public. It's good for them.” ― Stephanie Pearl-McPhee, At Knit's End<br/>
 header:
   overlay_image: assets/images/yarn-full.jpg
