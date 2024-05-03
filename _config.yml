@@ -53,6 +53,13 @@ include:
 plugins:
   - jekyll-scholar
 
+scholar:
+  style: apa
+  sort_by: year,month
+  order: descending
+  group_by: type
+  query: "@*[author ~= Nissim]"
+
 author:
   name   : "Malvina Nissim"
   avatar : "assets/images/me-ww-small.jpeg"
