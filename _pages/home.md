@@ -7,6 +7,9 @@ header:
   overlay_image: assets/images/bw.png
   overlay_filter: 0
 excerpt: CLCG, University of Groningen<br/>
+sidebar:
+  - text: 
+       <a href="https://www.rug.nl/research/clcg/?lang=en">Center for Language and Cognition Groningen (CLCG)</a>, <a href="https://www.rug.nl/let/?lang=en">Faculty of Arts, University of Groningen</a><br><a href="https://www.rug.nl/staff/location/1311">Harmonie Complex</a><br>Oude Kijk in 't Jatstraat 26<br>9712 EK Groningen, The Netherlands<br><br><i class="fa fa-envelope"></i> m.nissim@rug.nl<br><i class="fa fa-user"></i> office 1311.421 <br>
 feature_row:
   - image_path: assets/images/dvhj.jpg
     alt: Lecturer Year
@@ -29,20 +32,11 @@ feature_row:
     excerpt: Our system won the international competition on Author Profiling (PAN 2017) for the second year in a row
     btn_label: Learn more
     btn_class: btn--primary
-sidebar:
-  - title: ""
-    text: '<ul>
-      <li>JTS</li>
-      <li>Humane AI</li>
-      <li>AILC</li>
-      <li>Ethics</li>
-      </ul>'
-
 ---
 
 <!-- I am a computational linguist at the University of Groningen, The Netherlands. -->
 
-<!-- <div class="grid__wrapper"> -->
+<!-- <div class="grid__wrapper"> 
   <a href="https://www.rug.nl/research/clcg/?lang=en">Center for Language and Cognition Groningen (CLCG)</a>
   <br>
   <a href="https://www.rug.nl/let/?lang=en">Faculty of Arts, University of Groningen</a>
@@ -58,6 +52,17 @@ sidebar:
   <i class="fa fa-user"></i> office 1311.421
   <br>
   <hr>
+-->
+
+I work in Natural Language Processing and its application to societally relevant problems. Besides my research activities I am particularly active in science communication and outreach, including to school children, especially towards an aware and responsible use of language technologies. I really enjoy public speaking, and once I got to give a [TEDx talk](https://www.youtube.com/watch?v=NcyTQK-FaMM). I was also invited by the European Council to give a plenary lecture on gender bias in Artificial Intelligence on International Women's Day 2021. As a university professor I teach quite a bit, and I love it - proud to be elected as the 2016 University of Groningen [Lecturer of the Year](https://www.rug.nl/news/2017/01/dr.-malvina-nissim-elected-lecturer-of-the-year). 
+
+> - I am the coordinator of the [Sectorplan](https://www.rug.nl/research/research-let/sectorplan-website/)'s theme [*Humane AI*](https://www.rug.nl/research/research-let/sectorplan-website/humaneai/) at the University of Groningen
+> - I am a member of the [ACL Ethics Committee](https://www.aclweb.org/portal/content/acl-establishes-its-ethics-committee)
+> - I am a member of the Scientific Advisory Board of the [Jantina Tammes School for Digital Society, Technology, and AI](https://www.rug.nl/jantina-tammes-school/?lang=en) at the University of Groningen
+> - I am a member of the board of [AILC](https://www.ai-lc.it/en/), the Italian Association for Computational Linguistics 
+
+
+<hr>
 <p>
 <img align="left" src="/assets/images/book.jpeg" alt="book" width="200" href="https://www.carocci.it/prodotto/che-cose-la-linguistica-computazionale" hspace=30/>
 An easy access introduction to Computational Linguistics (in Italian) with amazing drawings by Myriam Nissim!

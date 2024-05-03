@@ -4,10 +4,9 @@ author_profile: false
 title: Podcasting Science
 permalink: /podcast/
 header: 
-       overlay_image: "assets/malvina.jpg"
+       overlay_image: "assets/images/malvina.jpg"
        overlay_filter: rgba(204, 0, 0, 1) 
        cta_label: "Podcasting Science"
-
 
 sidebar:
   - title: "Recent"

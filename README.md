@@ -7,4 +7,4 @@
 
 # Installation and running
 - `bundle` to install the dependencies from the Gemfile.
-- `bundle jekyll serve` to build and serve the site for local development. Static site is stored in `_site`.
+- `bundle exec jekyll serve` to build and serve the site for local development. Static site is stored in `_site`.

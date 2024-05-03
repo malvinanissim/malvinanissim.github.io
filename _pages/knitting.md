@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 toc: true
 permalink: /knitting/
-excerpt: CLCG, University of Groningen<br/>
+excerpt: “I will continue to freak out my children by knitting in public. It's good for them.” ― Stephanie Pearl-McPhee, At Knit's End<br/>
 header:
   overlay_image: assets/images/yarn-full.jpg
   overlay_filter: 0
@@ -19,7 +19,7 @@ feature_row:
     alt: Asymmetric
     title: Asymmetric
     excerpt: This is my favourite knitted piece. I haven't worn it much, but I love it. The pattern called for sleeves, but I went for not having them.
-    url: https://www.youtube.com/watch?v=NcyTQK-FaMM
+    url: https://www.ravelry.com/patterns/library/low-contrast
     btn_label: Pattern on Ravelry
     btn_class: btn--primary
   - image_path: assets/images/chess.jpg
@@ -34,9 +34,9 @@ I'm a keen knitter.
 
 Sometimes I go a few weeks or even months without knitting, all busy with work, and with no exception, every time I pick it up again I wonder how I have survived without. I have a huge stash of which I'm both proud and embarrassed.
 
-I have a [Ravelry profile](https://www.ravelry.com/lamalvi) with sparse accounting of projects I start and sometimes finish, and very many wishes and favourite knits and patterns.
+I have a [Ravelry profile](https://www.ravelry.com/people/lamalvi) with sparse accounting of the projects I start and sometimes finish, and very many wishes and favourite knits and patterns.
 
-Whenever I travel I tend to visit yarn shops, mostly abroad since I love to see what they are like in countries I do not know well. Still, I regularly visit my local spots, too. My go-to shop in Groningen is Achterpand, on the beautiful Lage der A.
+Whenever I travel I tend to visit yarn shops, mostly abroad since I love to see what they are like in countries I do not know well. Still, I regularly visit my local spots, too. My go-to shop in Groningen is [Achterpand](https://www.achterpand.nl/home/), on the beautiful Lage der A.
 
 <div class="grid__wrapper">
   <h2 id="highlights">Highlights</h2>
