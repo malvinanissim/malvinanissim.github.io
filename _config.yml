@@ -28,7 +28,7 @@ baseurl: / # place folder name if the site is served in a subfolder
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
 repository: malvinanissim/malvinanissim.github.io
 # Outputting
 permalink: /:categories/:title/
@@ -51,13 +51,7 @@ include:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-scholar
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
 
 author:
   name   : "Malvina Nissim"
