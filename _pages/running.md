@@ -1,9 +1,9 @@
 ---
 permalink: /running/
-excerpt: "<br><br>photo: de Helper, Paterswoldsemeer<br/>my favourite running area"
 toc: false
 header:
   overlay_image: assets/images/mill.jpg
+  caption: de Helper, Paterswoldsemeer<br/>my favourite running area
   overlay_filter: 0
 feature_row:
   - image_path: assets/images/2024.jpg
@@ -31,6 +31,6 @@ feature_row:
 I run.
 
 
-<div class="grid__wrapper">
- {% include feature_row %}
- </div>
+<p>
+<img align="left" src="/assets/images/2024.jpg" alt="2024" width="200" hspace=30/>
+</p>

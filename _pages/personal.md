@@ -3,6 +3,7 @@ toc: false
 permalink: /personal/
 header:
   overlay_image: assets/images/pisa2.jpg
+  caption: Pisa, Luminaria 2019
   overlay_filter: 0
 excerpt: " <br>"
 feature_row:
