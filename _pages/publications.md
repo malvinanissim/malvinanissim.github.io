@@ -9,7 +9,8 @@ You can access my publications in different ways:
 - [organised by year](/publications/pubs-by-year)
 - [organised by topic](/publications/pubs-by-tags)
 
-You can also download a [full pdf](/assets/publications.pdf) (organised by publication venue).
+You can also download a [full pdf](/assets/publications.pdf) (most recent first).
 
-# References
-{% bibliography %}
+# Publications
+<!-- {% bibliography %} -->
+{% bibliography --style chicago-annotated-bibliography %}
