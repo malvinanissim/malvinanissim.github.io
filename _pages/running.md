@@ -32,7 +32,7 @@ I run.
 
 But not consistently enough.
 
-I've run a few half-marathons, and I still dream of running a marathon. Maybe at some point I will. Three half-marathons I'm most happy with: Barcelona 2016, my very first one; Amsterdam 2019; and [Nacht van Groningen 2020](https://www.nachtvangroningen.nl/info/vorige-edities/editie-2020/). This last one was in the evening of February 29th, and I loved running together with Lucy and Maria straight into my birthday (pushing through wind and painful cobblestone in the centre of Groningen). Thanks to very few participants of my age, I (and Lucy) ended up with a [first-in-category win](assets/images/nacht2020.jpg)! Small satisfactions of life. 
+I've run a few half-marathons, and I still dream of running a marathon. Maybe at some point I will. Three half-marathons I'm most happy with: Barcelona 2016, my very first one; Amsterdam 2019; and [Nacht van Groningen 2020](https://www.nachtvangroningen.nl/info/vorige-edities/editie-2020/). This last one was in the evening of February 29th, and I loved running together with Lucy and Maria straight into my birthday (pushing through wind and painful cobblestone in the centre of Groningen). Thanks to very few participants of my age, I (and Lucy) ended up with a [first-in-category win](/assets/images/nacht2020.jpg)! Small satisfactions of life. 
 
 As a way to push myself, and as a reminder that running makes me always feel good, I set up a tradition whereby I run every January 1st, GPS-drawing the new year. Here are those I've created.
 
