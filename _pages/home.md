@@ -72,7 +72,7 @@ An easy access introduction to Computational Linguistics (in Italian) with amazi
 
 
 
-The book is available on the [Carocci](https://www.carocci.it/prodotto/che-cose-la-linguistica-computazionale) website and also on [Amazon]()
+The book is available on the [Carocci](https://www.carocci.it/prodotto/che-cose-la-linguistica-computazionale) website and also on [Amazon](https://amzn.eu/d/6Ifj7El)
 
 <hr>
 </div>
@@ -82,6 +82,7 @@ The book is available on the [Carocci](https://www.carocci.it/prodotto/che-cose-
 * [Watch Your Language!](https://www.lorentzcenter.nl/watch-your-language-language-technology-and-words-in-society.html)  Interdisciplinary workshop at the [Lorentz Center](https://www.lorentzcenter.nl) in Leiden, April 8-12 2024
 * The [HAICu project](https://www.rug.nl/research/icog/news/2023/vijf-letteren-onderzoekers-betrokken-bij-haicu-consortium?lang=en) is funded! I'm involved as co-applicant, and we are about to open a PhD position on it.
 * Keynote at [ESSLLI 2023](https://2023.esslli.eu/): [Plenary Evening Lecture](https://2023.esslli.eu/courses-workshops-accepted/week-1-and-2-schedule/evening-2.html), Ljubljana, Slovenia, August 2023 
+
 
 
 ## Past events
