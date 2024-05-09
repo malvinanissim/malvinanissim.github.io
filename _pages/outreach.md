@@ -39,13 +39,12 @@ Under the auspices of [AILC](https://www.ai-lc.it), the Italian Association for 
 
 ### Activities
 * [Bergamo Scienza 2019](https://www.bergamoscienza.it/): we organised a 90 minute Laboratory, [Non dire málvísindi se non l’hai nel sacco](https://festival.bergamoscienza.it/it/calendario/53605/non-dire-m-lv-sindi-se-non-l-hai-nel-sacco?fbclid=IwAR1ULbVscgBjo0_qdO1HbVJMMLMEsnteJNwINNHbJw4IeFMqv4n5UFWdfGQ), aimed at students of age 13 and older. 
-- [Bright-Night 2020](https://www.bright-night.it/ehi-siri-che-cose-la-linguistica-computazionale/): in collaboration with [Coling Lab (Laboratorio di Linguistica Computazionale dell’Università di Pisa)](http://colinglab.humnet.unipi.it/) and [ILC-CNR (Istituto di Linguistica Computazionale “Antonio Zampolli”)](http://www.ilc.cnr.it/) we ran the Lab at the Pisa edition of National Researchers' Night (online). [**slides**](https://bit.ly/ailc-bright)
-- [SISSA Student Day 2020](https://www.sissa.it/it/calendar-event/student-day-2020): run by Gabriele, who gave an interactive talk, the Lab was presented at this event aimed at high school students about to decide on their higher education path.
-- [Festival della Scienza 2020](http://www.festivalscienza.it/site/home.html): We organised a 45 minute Lab [Il linguaggio di Siri](http://www.festivalscienza.it/site/home/programma-scuole/il-linguaggio-di-siri.html) for high school students at the major Science Festival in Italy. This was run by Lucio. 
-* In 2020 and 2021 an online version of the Lab was presented by Lucio at the high school [Istituto Tullio Buzzi di Prato](https://www.tulliobuzzi.edu.it/). [**slides from 2021**](https://bit.ly/ailc-buzzi)
+* [Bright-Night 2020](https://www.bright-night.it/ehi-siri-che-cose-la-linguistica-computazionale/): in collaboration with [Coling Lab (Laboratorio di Linguistica Computazionale dell’Università di Pisa)](http://colinglab.humnet.unipi.it/) and [ILC-CNR (Istituto di Linguistica Computazionale “Antonio Zampolli”)](http://www.ilc.cnr.it/) we ran the Lab at the Pisa edition of National Researchers' Night (online). [**slides**](https://bit.ly/ailc-bright)
+* [SISSA Student Day 2020](https://www.sissa.it/it/calendar-event/student-day-2020): run by Gabriele, who gave an interactive talk, the Lab was presented at this event aimed at high school students about to decide on their higher education path.
+* [Festival della Scienza 2020](http://www.festivalscienza.it/site/home.html): We organised a 45 minute Lab [Il linguaggio di Siri](http://www.festivalscienza.it/site/home/programma-scuole/il-linguaggio-di-siri.html) for high school students at the major Science Festival in Italy. This was run by Lucio. 
+* In 2020 and 2021 an online version of the Lab was presented by Lucio at the high school [Istituto Tullio Buzzi di Prato](https://www.tulliobuzzi.edu.it/). [slides from 2021](https://bit.ly/ailc-buzzi)
 * [Science Web Festival 2021 (online)](https://www.sciencewebfestival.it/): [video of our Lab](https://www.youtube.com/watch?v=HGTpAXXRkWA)
-
-- [Festival della Scienza 2021](http://festival2021.festivalscienza.it/site/home.html): through a collaboration of [AILC (Associazione Italiana di Linguistica Computazionale)](http://www.ai-lc.it/) e [AIUCD (Associazione per l’Informatica Umanistica e la Cultura Digitale)](http://www.aiucd.it/), [Rachele Sprugnoli](https://personale.unipr.it/it/ugovdocenti/person/236480) and I have coordinated the realisation of a joint Computational Linguistics & Digital Humanities Lab on Dante: [È Dante o non è Dante: questo è il problema](http://festival2021.festivalscienza.it/contents/instance2/static/programma_21_def.pdf). [Alessio Miaschi](http://pages.di.unipi.it/miaschi/) e [Irene Sucameli](http://for.unipi.it/irene_sucameli/) have also contributed to this project.
+* [Festival della Scienza 2021](http://festival2021.festivalscienza.it/site/home.html): through a collaboration of [AILC (Associazione Italiana di Linguistica Computazionale)](http://www.ai-lc.it/) e [AIUCD (Associazione per l’Informatica Umanistica e la Cultura Digitale)](http://www.aiucd.it/), [Rachele Sprugnoli](https://personale.unipr.it/it/ugovdocenti/person/236480) and I have coordinated the realisation of a joint Computational Linguistics & Digital Humanities Lab on Dante: [È Dante o non è Dante: questo è il problema](http://festival2021.festivalscienza.it/contents/instance2/static/programma_21_def.pdf). [Alessio Miaschi](http://pages.di.unipi.it/miaschi/) e [Irene Sucameli](http://for.unipi.it/irene_sucameli/) have also contributed to this project.
 
 ### Publications and Presentations on the Activities
 
@@ -56,14 +55,13 @@ Under the auspices of [AILC](https://www.ai-lc.it), the Italian Association for 
 
 ## Interviews and Press
 
-* Podcast episode 
-* In schools
-* ANSA dead or murdered
-* Long piece by Marioleijn
-* Broer 5
-* DvhN
-* 
-
+* Short interview [video](https://www.unipv.news/notizie/luniversita-nei-collegi-intervista-alla-linguista-malvina-nissim) at [Collegio Ghislieri in Pavia](https://www.ghislieri.it/), where I taught an intensive one-week course on ethics in language technology for master students in Linguistics, January 2024.
+* Bachelor students from my Ethical Aspects in NLP class go to high schools to talk about the perks and perils of language technology: [a news piece](https://www.rug.nl/let/studeren-bij-ons/ik/), June 2023.
+* [One of the most interesting conversations](https://soundcloud.com/degrees_of_freedom/s2-ep7-chat-gpt) I've had on the topic of ChatGPT and its impact on society and in particular education. Thanks so much to Tassos Sarampalis and Malcolm Davis for having me and Patrick Darwinkel on the [Degrees of Freedom podcast](https://soundcloud.com/degrees_of_freedom), February 2023.
+* The regional newspaper Dagblad van het Noorden [interviewed me and other colleagues at GroNLP on ChatGPT](https://next.dvhn.nl/groningen/ChatGPT-revolutionair-hulpmiddel-bij-teksten-28169044.html) (in Dutch), January 2023. 
+* The Italian News Agency, ANSA, published [a piece on our AACL paper](https://www.ansa.it/sito/notizie/tecnologia/hitech/2022/10/26/lia-impara-a-prevedere-linterpretazione-delle-notizie_cd277db8-1b9e-4f7d-b1c0-c7c359836a70.html) (see also: [L'Eco di Bergamo](https://www.ecodibergamo.it/stories/scienza-e-tecnologia/lia-impara-a-prevedere-linterpretazione-delle-notizie_1442561_11/) and [GiornaLettissimo](https://www.giornalettismo.com/algoritmo-percezione-notizie/))
+* Interview with AACL paper's co-author Chiara Zanchi on the [Provincia Pavese](https://laprovinciapavese.gelocal.it/cultura-e-spettacoli/2022/10/27/news/lalgoritmo_che_aiuta_a_interpretare_correttamente_le_notizie_sensibili-12204480/) 
+* [Interview on my work](https://www.rug.nl/about-ug/latest-news/news/archief2022/nieuwsberichten/hoe-menselijke-vooroordelen-in-computerprogramma-s-sluipen?lang=en) for the University of Groningen magazine, November 2022. 
 * Education Festival: Short interview + promo about teaching and the [RuG Education Festival 2018](https://www.rug.nl/about-us/news-and-events/events/calendar/2018/education-festival). [video](https://www.youtube.com/embed/xE2BBWwGPcU)
 * RuG [press release](https://www.rug.nl/let/organization/actueel/nieuwsberichten-2016/2016-07-13-students-information-science-win-competition) on the international challenge we won in 2016 ([and in 2017 again!](http://pan.webis.de/clef17/pan17-web/author-profiling.html))
 - RuG [press release](https://www.rug.nl/let/organization/letteren-en-samenleving/mogelijkheden/master-students-collaborate-with-duo-in-a-user-interface-evaluation-project) on our collaboration with [DUO](https://duo.nl/) to evaluate their web interface.
