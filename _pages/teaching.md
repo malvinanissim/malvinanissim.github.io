@@ -10,12 +10,20 @@ header:
 
 ## Programmes I teach in
 I teach several courses at the University of Groningen.
-- [Bachelor in Information Science](https://www.rug.nl/bachelors/information-science/?lang=en)
-- [Master in Information Science](https://www.rug.nl/masters/information-science/?lang=en)
+- [Bachelor of Science in Information Science](https://www.rug.nl/bachelors/information-science/?lang=en)
+- [Master of Science in Information Science](https://www.rug.nl/masters/information-science/?lang=en)
 - [Research Master in Linguistics](https://www.rug.nl/masters/linguistics-research/?lang=en)
-- [Master in Digital Humanities](https://www.rug.nl/masters/digital-humanities/)
+- [Master of Arts in Digital Humanities](https://www.rug.nl/masters/digital-humanities/)
+- [University Minor Data Wise](https://www.rug.nl/gmw/education/minor/datawise?lang=en) 
 
 Aside supervising master theses, I also regularly supervise groups of master students on small projects, and we often participate in international shared tasks.
+
+## External Courses
+
+* Turin 2024, Ethical Aspects in NLP
+* Pavia 2024, Ethical Aspects in NLP
+* ESSLLI 2016
+
 
 ## Awards and Recognition
 I was awarded a [Fellowship for Innovation of Teaching](https://www.rug.nl/about-us/where-do-we-stand/quality-works/fellowships-innovation-teaching/) to develop [a podcast course](/podcast/) in 2018.

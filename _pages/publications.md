@@ -12,5 +12,6 @@ You can access my publications in different ways:
 You can also download a [full pdf](/assets/publications.pdf) (most recent first).
 
 # Publications
-<!-- {% bibliography %} -->
-{% bibliography --style chicago-annotated-bibliography %}
+
+{% bibliography --style apa --file references %}
+
