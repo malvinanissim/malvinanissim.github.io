@@ -56,13 +56,13 @@ plugins:
 scholar:
   remove_duplicates: true
   style: chicago-annotated-bibliography.csl
-  group_by: year, type
-  sort_by: year, month
-  order: descending, descending
+  group_by: year
+  sort_by: year
+  order: descending
   type_order: [book, article, inproceedings, incollection, thesis, manual, techreport, misc, unpublished]
   query: "@*[author ~= Nissim]"
   locale: en
-  bibliography_template: bibtemplate
+  bibliography_template: bibtemplateMN
 
 author:
   name   : "Malvina Nissim"
