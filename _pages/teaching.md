@@ -2,10 +2,10 @@
 title: Teaching
 permalink: /teaching/
 header: 
-       overlay_image: "assets/images/malvina.jpg"
-       overlay_filter: rgba(204, 0, 0, 1) 
-       cta_label: "I am the 2016 University of Groningen Lecturer of the Year"
-       cta_url: "https://www.rug.nl/about-us/news-and-events/news/archief2017/nieuwsberichten/dr.-malvina-nissim-elected-lecturer-of-the-year"
+  overlay_image: assets/images/dvhj.jpg
+  overlay_filter: 0.1
+  cta_label: "I am the 2016 University of Groningen Lecturer of the Year"
+  cta_url: "https://www.rug.nl/about-us/news-and-events/news/archief2017/nieuwsberichten/dr.-malvina-nissim-elected-lecturer-of-the-year"
 ---
 
 ## Programmes I teach in
