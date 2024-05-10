@@ -3,15 +3,27 @@ layout: archive
 permalink: /publications/
 ---
 
-You can access my publications in different ways:
-
-- [organised by publication venue](/publications/pubs-by-type)
-- [organised by year](/publications/pubs-by-year)
-- [organised by topic](/publications/pubs-by-tags)
-
+# Publications
 You can also download a [full pdf](/assets/publications.pdf) (most recent first).
 
-# Publications
 
 {% bibliography --style apa --file references %}
 
+<script>
+function toggleBibtex(parameter) {
+    var x= document.getElementById('a' + parameter);
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+function toggleAbstract(parameter) {
+    var x= document.getElementById('b' + parameter);
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>

@@ -1,0 +1,37 @@
+---
+---
+
+<hr>
+
+<div class="text-justify">{{reference | replace_first: 'Nissim, M.', '<b>Nissim, M.</b>'}}</div>
+
+{% if entry.url %}
+    <a href="{{ entry.url }}" target="_blank"><button class="btn btn-success btm-sm">URL</button></a>
+{% endif %}
+
+{% if entry.doi %}
+    <a href="{{ entry.doi | prepend: 'http://doi.org/' }}" target="_blank"><button class="btn btn-primary btm-sm">DOI</button></a>
+{% endif %}
+
+{% if entry.type == 'unpublished' or entry.type == 'article' or  entry.type == 'thesis' or entry.type == 'inproceedings' or entry.type == 'report' %}
+    <button class="btn btn-danger btm-sm"  onclick="toggleBibtex('{{entry.key | replace: '-', ''}}')">BIB</button>
+{% endif %}
+
+{% if entry.abstract %}
+    <button class="btn btn-warning btm-sm"  onclick="toggleAbstract('{{entry.key | replace: '-', ''}}')">ABSTRACT</button>
+{% endif %}
+
+{% if entry.abstract %}
+    <div id="a{{entry.key | replace: '-', ''}}" style="display: none; background-color:black; color:grey; border-radius:5px; padding:10px; margin-bottom:20px;">
+        <pre>{{ entry.bibtex | remove: "entry.abstract" }}</pre>
+    </div>
+{% else %}
+    <div id="a{{entry.key | replace: '-', ''}}" style="display: none; background-color:black; color:grey; border-radius:5px; padding:10px; margin-bottom:20px;">
+        <pre>{{ entry.bibtex }}</pre>
+    </div>
+{% endif %}
+
+<div id="b{{entry.key | replace: '-', ''}}" style="display: none;">
+    <hr>
+    <p><i>{{entry.abstract}}</i></p>
+</div>
