@@ -2,8 +2,10 @@
 title: Outreach and in the media
 permalink: /outreach/
 header:
-  overlay_image: assets/images/phd-day.jpg
+  overlay_image: assets/images/WiDS_2023.jpg
   overlay_filter: 0.1
+  caption: WiDS Zürich 2023
+excerpt: "<br><br>"
 ---
 ## Public Lectures
 
