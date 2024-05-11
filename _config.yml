@@ -58,7 +58,7 @@ scholar:
   style: chicago-annotated-bibliography.csl
   group_by: year
   sort_by: year
-  order: descending
+  group_order: descending
   type_order: [book, article, inproceedings, incollection, thesis, manual, techreport, misc, unpublished]
   query: "@*[author ~= Nissim]"
   locale: en

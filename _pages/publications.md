@@ -4,10 +4,9 @@ permalink: /publications/
 ---
 
 # Publications
-You can also download a [full pdf](/assets/publications.pdf) (most recent first).
+My publications are listed below. You can also download a [full pdf](/assets/publications.pdf) (most recent first).
 
-
-{% bibliography --style apa --file references %}
+{% bibliography --query @*[year<=2024]--style apa --file references  --reverse %}
 
 <script>
 function toggleBibtex(parameter) {
