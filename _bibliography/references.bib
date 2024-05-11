@@ -1,10 +1,23 @@
-@inproceedings{finkel2004exploiting,
-  title={Exploiting context for biomedical entity recognition: From syntax to the web},
-  author={Finkel, Jenny Rose and Dingare, Shipra and Nguyen, Huy and Nissim, Malvina and Manning, Christopher D and Sinclair, Gail},
-  booktitle={Proceedings of the International Joint Workshop on Natural Language Processing in Biomedicine and its Applications (NLPBA/BioNLP)},
-  pages={91--94},
-  year={2004}
+@inproceedings{finkel-etal-2004-exploiting,
+    title = "Exploiting Context for Biomedical Entity Recognition: From Syntax to the Web",
+    author = "Finkel, Jenny  and
+      Dingare, Shipra  and
+      Nguyen, Huy  and
+      Nissim, Malvina  and
+      Manning, Christopher  and
+      Sinclair, Gail",
+    editor = "Collier, Nigel  and
+      Ruch, Patrick  and
+      Nazarenko, Adeline",
+    booktitle = "Proceedings of the International Joint Workshop on Natural Language Processing in Biomedicine and its Applications ({NLPBA}/{B}io{NLP})",
+    month = aug # " 28th and 29th",
+    year = "2004",
+    address = "Geneva, Switzerland",
+    publisher = "COLING",
+    url = "https://aclanthology.org/W04-1217",
+    pages = "91--94",
 }
+
 
 @article{finkel2005exploring,
   title={Exploring the boundaries: gene and protein identification in biomedical text},
@@ -14,7 +27,7 @@
   pages={1--9},
   year={2005},
   publisher={BioMed Central},
-  html={linkt_to_pub.html}
+  url={https://doi.org/10.1186/1471-2105-6-S1-S5},
 }
 
 @inproceedings{markert2003using,
@@ -60,7 +73,9 @@ booktitle={Proc. 10th European Chapter of the Association for Computational Ling
   number={1-2},
   pages={77--85},
   year={2005},
-  publisher={John Wiley \& Sons, Ltd. Chichester, UK}
+  publisher={John Wiley \& Sons, Ltd. Chichester, UK},
+  abstract={We present a maximum entropy-based system for identifying named entities (NEs) in biomedical abstracts and present its performance in the only two biomedical named entity recognition (NER) comparative evaluations that have been held to date, namely BioCreative and Coling BioNLP. Our system obtained an exact match F-score of 83.2\% in the BioCreative evaluation and 70.1\% in the BioNLP evaluation. We discuss our system in detail, including its rich use of local features, attention to correct boundary identification, innovative use of external knowledge resources, including parsing and web searches, and rapid adaptation to new NE sets. We also discuss in depth problems with data annotation in the evaluations which caused the final performance to be lower than optimal.},
+  url={https://doi.org/10.1002/cfg.457}
 }
 
 @inproceedings{nissim2003syntactic,
@@ -138,12 +153,14 @@ booktitle={Proc. 10th European Chapter of the Association for Computational Ling
 }
 
 
-@article{gangemi2007c,
-  title={C-ODO: an OWL Meta-model for Collaborative Ontology Design.},
+@inproceedings{gangemi2007c,
+  title={C-ODO: an OWL Meta-model for Collaborative Ontology Design},
   author={Gangemi, Aldo and Lehmann, Jos and Presutti, Valentina and Nissim, Malvina and Catenacci, Carola},
-  journal={CKC},
+  editor={Noy, N. and Alani, H. and Stumme, G. and Mika, P. and Sure, Y. and Vrandecic, D.},
+  booktitle={Proceedings of the Workshop on Social and Collaborative Construction of Structured Knowledge (CKC 2007)},
   volume={273},
-  year={2007}
+  year={2007},
+  url={https://hdl.handle.net/11585/57679}
 }
 
 @inproceedings{nissim2004recognising,
@@ -154,20 +171,31 @@ booktitle={Proc. 10th European Chapter of the Association for Computational Ling
   year={2004}
 }
 
-@inproceedings{markert2007semeval,
-  title={Semeval-2007 task 08: Metonymy resolution at semeval-2007},
-  author={Markert, Katja and Nissim, Malvina},
-  booktitle={Proceedings of the Fourth International Workshop on Semantic Evaluations (SemEval-2007)},
-  pages={36--41},
-  year={2007},
+
+@inproceedings{markert-nissim-2007-semeval,
+    title = "{S}em{E}val-2007 Task 08: Metonymy Resolution at {S}em{E}val-2007",
+    author = "Markert, Katja  and
+      Nissim, Malvina",
+    editor = "Agirre, Eneko  and
+      M{\`a}rquez, Llu{\'\i}s  and
+      Wicentowski, Richard",
+    booktitle = "Proceedings of the Fourth International Workshop on Semantic Evaluations ({S}em{E}val-2007)",
+    month = jun,
+    year = "2007",
+    address = "Prague, Czech Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/S07-1007",
+    pages = "36--41",
 }
+
 
 @inproceedings{ahn2005question,
   title={Question Answering with QED at TREC 2005.},
   author={Ahn, Kisuh and Bos, Johan and Kor, David and Nissim, Malvina and Webber, Bonnie L and Curran, James R},
-  booktitle={TREC},
+  booktitle={Proceedings of TREC},
   year={2005}
 }
+
 
 @article{markert2003corpus,
   title={Corpus-based metonymy analysis},
@@ -177,17 +205,22 @@ booktitle={Proc. 10th European Chapter of the Association for Computational Ling
   number={3},
   pages={175--188},
   year={2003},
-  publisher={Taylor \& Francis}
+  publisher={Routledge},
+  abstract = {In this article, we make the case for corpus-based metonymy analysis and show that many interesting linguistic and statistical questions can only be answered byworking with real texts. To facilitate such studies, we present a method for annotating metonymies in domain- and genre-independent text. We advocate an annotation scheme that builds on regularities in metonymic usage, that takes underspecification in metonymic reference into account, and that is organized hierarchically. We combine previous metonymy classification proposals with insights from a corpus study to present a fullyworked-out annotation scheme for location names, illustrating the previously mentioned principles.We present several experiments measuring annotation agreement and show that the annotation scheme is reliable and has wide coverage. We also provide a gold standard for annotations of this kind consisting of 2,000 annotated occurrences of country names in the British National Corpus.We use the resulting corpus to study metonymy distributions and the factors that influence the choice of literal versus metonymic readings in real texts. }
+},
+  url = {https://doi.org/10.1207/S15327868MS1803_04},
 }
 
-@article{markert2006metonymic,
+@incollection{markert2006metonymic,
   title={Metonymic proper names: A corpus-based account},
   author={Markert, Katja and Nissim, Malvina},
-  journal={TRENDS IN LINGUISTICS STUDIES AND MONOGRAPHS},
-  volume={171},
-  pages={152},
+  booktitle={Corpora in Cognitive Linguistics - Corpus-Based Approaches to Syntax and Lexis. Volume I: Metaphor and Metonymy},
+  pages={152-174},
   year={2006},
-  publisher={Mouton de Gruyter}
+  publisher={Mouton de Gruyter},
+  abstract={Many proper names are widely used metonymically. Thus, for example, organisation names can be used for products produced by the organisation, members of an organisation or events associated with the organisation. Their treatment is crucial for many natural language processing tasks like question answering and anaphora resolution. At the moment, language resources do not contain the necessary information for large-scale metonymy processing. As a contribution, we describe a general framework for annotating metonymies in domain- independent text that considers the regularity, productivity and underspecification of metonymic usage. We will then concentrate on two fully worked out annotation schemes for location and organisation names and rigorously evaluate these schemes as to their reliability. We also present a gold standard corpus consisting of 4000 annotated occurrences of location and organisation names in the British National Corpus. We use this corpus to examine the distribution of metonymies as well as for experiments in automatic metonymy resolution.},
+  url={https://doi.org/10.1515/9783110199895},
+  editor={Anatol Stefanowitsch and Stefan Th. Gries},
 }
 
 @inproceedings{nissim2005learning,
@@ -197,19 +230,40 @@ booktitle={Proc. 10th European Chapter of the Association for Computational Ling
   year={2005}
 }
 
-@inproceedings{carletta2004using,
-  title={Using the NITE XML Toolkit on the Switchboard Corpus to study syntactic choice: a case study},
-  author={Carletta, Jean and Dingare, Shipra and Nissim, Malvina and Nikitina, Tatiana},
-  booktitle={Fourth Language Resources and Evaluation Conference (LREC) 2004},
-  year={2004}
+@inproceedings{carletta-etal-2004-using,
+    title = "Using the {NITE} {XML} Toolkit on the Switchboard Corpus to Study Syntactic Choice: a Case Study",
+    author = "Carletta, Jean  and
+      Dingare, Shipra  and
+      Nissim, Malvina  and
+      Nikitina, Tatiana",
+    editor = "Lino, Maria Teresa  and
+      Xavier, Maria Francisca  and
+      Ferreira, F{\'a}tima  and
+      Costa, Rute  and
+      Silva, Raquel",
+    booktitle = "Proceedings of the Fourth International Conference on Language Resources and Evaluation ({LREC}{'}04)",
+    month = may,
+    year = "2004",
+    address = "Lisbon, Portugal",
+    publisher = "European Language Resources Association (ELRA)",
+    url = "http://www.lrec-conf.org/proceedings/lrec2004/pdf/636.pdf",
 }
 
-@inproceedings{bos2006empirical,
-  title={An empirical approach to the interpretation of superlatives},
-  author={Bos, Johan and Nissim, Malvina},
-  booktitle={Proceedings of the 2006 conference on empirical methods in natural language processing},
-  pages={9--17},
-  year={2006}
+
+
+@inproceedings{bos-nissim-2006-empirical,
+    title = "An Empirical Approach to the Interpretation of Superlatives",
+    author = "Bos, Johan  and
+      Nissim, Malvina",
+    editor = "Jurafsky, Dan  and
+      Gaussier, Eric",
+    booktitle = "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+    month = jul,
+    year = "2006",
+    address = "Sydney, Australia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W06-1602",
+    pages = "9--17",
 }
 
 
@@ -228,21 +282,42 @@ booktitle={Proc. 10th European Chapter of the Association for Computational Ling
   year={2006}
 }
 
-@inproceedings{alex2006impact,
-  title={The Impact of Annotation on the Performance of Protein Tagging in Biomedical Text.},
-  author={Alex, Beatrice and Nissim, Malvina and Grover, Claire},
-  booktitle={LREC},
-  pages={595--600},
-  year={2006}
+@inproceedings{alex-etal-2006-impact,
+    title = "The Impact of Annotation on the Performance of Protein Tagging in Biomedical Text",
+    author = "Alex, Beatrice  and
+      Nissim, Malvina  and
+      Grover, Claire",
+    editor = "Calzolari, Nicoletta  and
+      Choukri, Khalid  and
+      Gangemi, Aldo  and
+      Maegaard, Bente  and
+      Mariani, Joseph  and
+      Odijk, Jan  and
+      Tapias, Daniel",
+    booktitle = "Proceedings of the Fifth International Conference on Language Resources and Evaluation ({LREC}{'}06)",
+    month = may,
+    year = "2006",
+    address = "Genoa, Italy",
+    publisher = "European Language Resources Association (ELRA)",
+    url = "http://www.lrec-conf.org/proceedings/lrec2006/pdf/398_pdf.pdf",
+    abstract = "In this paper we discuss five different corpora annotated forprotein names. We present several within- and cross-dataset proteintagging experiments showing that different annotation schemes severelyaffect the portability of statistical protein taggers. By means of adetailed error analysis we identify crucial annotation issues thatfuture annotation projects should take into careful consideration.",
 }
 
-@inproceedings{nissim2006learning,
-  title={Learning information status of discourse entities},
-  author={Nissim, Malvina},
-  booktitle={Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing},
-  pages={94--102},
-  year={2006}
+
+@inproceedings{nissim-2006-learning,
+    title = "Learning Information Status of Discourse Entities",
+    author = "Nissim, Malvina",
+    editor = "Jurafsky, Dan  and
+      Gaussier, Eric",
+    booktitle = "Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing",
+    month = jul,
+    year = "2006",
+    address = "Sydney, Australia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W06-1612",
+    pages = "94--102",
 }
+
 
 @techreport{markert2007metonymy,
   title={Metonymy resolution at semeval i: Guidelines for participants},
@@ -273,11 +348,12 @@ institution={Association for Computational Linguistics}
   volume={43},
   pages={123--138},
   year={2009},
-  publisher={Springer Netherlands}
+  publisher={Springer Netherlands},
+  url={https://doi.org/10.1007/s10579-009-9087-y},
 }
 
 @article{bos2008combining,
-  title={Combining discourse representation theory with framenet},
+  title={Combining discourse representation theory with {FrameNet}},
   author={Bos, Johan and Nissim, Malvina},
   journal={Frames, Corpora, and Knowledge Representation},
   pages={169--183},
@@ -287,9 +363,11 @@ institution={Association for Computational Linguistics}
 
 @inproceedings{nissim1999towards,
   title={Towards a compositional frame semantics},
-  author={Nissim, Malvina and Sanso, Andrea and Soria, Claudia},
+  author={Nissim, Malvina and Sans\`{o}, Andrea and Soria, Claudia},
   booktitle={Proceedings of the European Conference on Cognitive Science (ECCS99)},
-  year={1999}
+  year={1999},
+  editor={Sebastiano Bagnara},
+  location={Certosa di Pontignano, Siena, Italy}
 }
 
 @inCollection{nissim2000underlying,
@@ -301,22 +379,44 @@ institution={Association for Computational Linguistics}
   publisher={International Pragmatics Association}
 }
 
-@inproceedings{celli2009automatic,
-  title={Automatic identification of semantic relations in Italian complex nominals},
-  author={Celli, Fabio and Nissim, Malvina},
-  booktitle={Proceedings of the Eight International Conference on Computational Semantics},
-  pages={45--60},
-  year={2009}
+@inproceedings{celli-nissim-2009-automatic,
+    title = "Automatic identification of semantic relations in {I}talian complex nominals",
+    author = "Celli, Fabio  and
+      Nissim, Malvina",
+    editor = "Bunt, Harry",
+    booktitle = "Proceedings of the Eight International Conference on Computational Semantics",
+    month = jan,
+    year = "2009",
+    address = "Tilburg, The Netherlands",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W09-3707",
+    pages = "45--60",
 }
 
-@inproceedings{bos2006answer,
-  title={Answer translation: an alternative approach to cross-lingual question answering},
-  author={Bos, Johan and Nissim, Malvina},
-  booktitle={Workshop of the Cross-Language Evaluation Forum for European Languages},
-  pages={290--299},
-  year={2006},
-  organization={Springer Berlin Heidelberg Berlin, Heidelberg}
+
+@InProceedings{10.1007/978-3-540-74999-8_36,
+author="Bos, Johan
+and Nissim, Malvina",
+editor="Peters, Carol
+and Clough, Paul
+and Gey, Fredric C.
+and Karlgren, Jussi
+and Magnini, Bernardo
+and Oard, Douglas W.
+and de Rijke, Maarten
+and Stempfhuber, Maximilian",
+title="Answer Translation: An Alternative Approach to Cross-Lingual Question Answering",
+booktitle="Evaluation of Multilingual and Multi-modal Information Retrieval",
+year="2007",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="290--299",
+abstract="We approach cross-lingual question answering by using a mono-lingual QA system for the source language and by translating resulting answers into the target language. As far as we are aware, this is the first cross-lingual QA system in the history of CLEF that uses this method---almost without exception, cross-lingual QA systems use translation of the question or query terms instead. We demonstrate the feasibility of our alternative approach by using a mono-lingual QA system for English, and translating answers and finding appropriate documents in Italian and Dutch. For factoid and definition questions, we achieve overall accuracy scores ranging from 13{\%} (EN{\textrightarrow}NL) to 17{\%} (EN{\textrightarrow}IT) and lenient accuracy figures from 19{\%} (EN{\textrightarrow}NL) to 25{\%} (EN{\textrightarrow}IT). The advantage of this strategy to cross-lingual QA is that translation of answers is easier than translating questions---the disadvantage is that answers might be missing from the source corpus and additional effort is required for finding supporting documents of the target language.",
+isbn="978-3-540-74999-8"
 }
+
+
+
 
 @inProceedings{nissim2000referential,
   title={On the referential role of genitives},
@@ -335,6 +435,8 @@ institution={Association for Computational Linguistics}
 institution={EU Horizon},
 }
 
+
+
 @article{grandi2011noun,
   title={Noun-clad adjectives. On the adjectival status of non-head constituents of Italian attributive compounds},
   author={Grandi, Nicola and Nissim, Malvina and Tamburini, Fabio},
@@ -343,32 +445,53 @@ institution={EU Horizon},
   number={1},
   pages={161--0},
   year={2011},
-  publisher={Societ{\`a} editrice il Mulino}
+  publisher={Societ{\`a} editrice il Mulino},
+  url={https://www.rivisteweb.it/doi/10.1418/34543},
+  issn={1720-9331},
 }
 
-@article{bos2007part,
-  title={Part IV-Multiple Language Question Answering (QA (commat) CLEF)-Main Task: Mono-and Bilingual QA-Answer Translation: An Alternative Approach to Cross-Lingual Question Answering},
-  author={Bos, Johan and Nissim, Malvina},
-  journal={Lecture Notes in Computer Science},
-  volume={4730},
-  pages={290--299},
-  year={2007},
-  publisher={Berlin: Springer-Verlag, 1973-}
+
+@inproceedings{zaninello-nissim-2010-creation,
+    title = "Creation of Lexical Resources for a Characterisation of Multiword Expressions in {I}talian",
+    author = "Zaninello, Andrea  and
+      Nissim, Malvina",
+    editor = "Calzolari, Nicoletta  and
+      Choukri, Khalid  and
+      Maegaard, Bente  and
+      Mariani, Joseph  and
+      Odijk, Jan  and
+      Piperidis, Stelios  and
+      Rosner, Mike  and
+      Tapias, Daniel",
+    booktitle = "Proceedings of the Seventh International Conference on Language Resources and Evaluation ({LREC}'10)",
+    month = may,
+    year = "2010",
+    address = "Valletta, Malta",
+    publisher = "European Language Resources Association (ELRA)",
+    url = "http://www.lrec-conf.org/proceedings/lrec2010/pdf/567_Paper.pdf",
+    abstract = "The theoretical characterisation of multiword expressions (MWEs) is tightly connected to their actual occurrences in data and to their representation in lexical resources. We present three lexical resources for Italian MWEs, namely an electronic lexicon, a series of example corpora and a database of MWEs represented around morphosyntactic patterns. These resources are matched against, and created from, a very large web-derived corpus for Italian that spans across registers and domains. We can thus test expressions coded by lexicographers in a dictionary, thereby discarding unattested expressions, revisiting lexicographers's choices on the basis of frequency information, and at the same time creating an example sub-corpus for each entry. We organise MWEs on the basis of the morphosyntactic information obtained from the data in an electronic, flexible knowledge-base containing structured annotation exploitable for multiple purposes. We also suggest further work directions towards characterising MWEs by analysing the data organised in our database through lexico-semantic information available in WordNet or MultiWordNet-like resources, also in the perspective of expanding their set through the extraction of other similar compact expressions.",
 }
 
-@inproceedings{zaninello2010creation,
-  title={Creation of Lexical Resources for a Characterisation of Multiword Expressions in Italian.},
-  author={Zaninello, Andrea and Nissim, Malvina},
-  booktitle={Proceedings of LREC 2010},
-  year={2010}
+@inproceedings{nissim-perboni-2008-italian,
+    title = "The {I}talian Particle {``}ne{''}: Corpus Construction and Analysis",
+    author = "Nissim, Malvina  and
+      Perboni, Sara",
+    editor = "Calzolari, Nicoletta  and
+      Choukri, Khalid  and
+      Maegaard, Bente  and
+      Mariani, Joseph  and
+      Odijk, Jan  and
+      Piperidis, Stelios  and
+      Tapias, Daniel",
+    booktitle = "Proceedings of the Sixth International Conference on Language Resources and Evaluation ({LREC}'08)",
+    month = may,
+    year = "2008",
+    address = "Marrakech, Morocco",
+    publisher = "European Language Resources Association (ELRA)",
+    url = "http://www.lrec-conf.org/proceedings/lrec2008/pdf/795_paper.pdf",
+    abstract = "The Italian particle Â“neÂ” exhibits interesting anaphoric properties that have not been yet explored in depth from a corpus and computational linguistic perspective. We provide: (i) an overview of the phenomenon; (ii) a set of annotation schemes for marking up occurrences of Â“neÂ”; (iii) the description of a corpus annotated for this phenomenon ; (iv) a first assessment of the resolution task. We show that the schemes we developed are reliable, and that the actual distribution of partitive and non-partitive uses of Â“neÂ” is inversely proportional to the amount of attention that the two different uses have received in the linguistic literature. As an assessment of the complexity of the resolution task, we find that a recency-based baseline yields an accuracy of less than 30{\%} on both development and test data.",
 }
 
-@inproceedings{nissim2008italian,
-  title={The Italian Particle" ne": Corpus Construction and Analysis.},
-  author={Nissim, Malvina and Perboni, Sara},
-  booktitle={Proceedings of LREC 2008},
-  year={2008}
-}
 
 @techreport{grover2008machine,
   title={Machine learning of entity recognizers for modular retargetable natural language processing},
@@ -396,12 +519,13 @@ institution={University of Edinburgh}
   number={2},
   pages={283--300},
   year={2011},
-  publisher={Societ{\`a} editrice il Mulino}
+  publisher={Societ{\`a} editrice il Mulino},
+  url={https://www.rivisteweb.it/doi/10.1418/35844},
 }
 
 @incollection{nissim2009using,
   title={Using the Web as a Corpus in Natural Language Processing},
-  author={Nissim, Malvina and BOS, JOHAN and others},
+  author={Nissim, Malvina and Bos, Johan},
   booktitle={Linguistica e Modelli Tecnologici di Ricerca},
   pages={345--351},
   year={2009},
@@ -417,11 +541,11 @@ institution={University of Edinburgh}
   publisher={GLSA Publications}
 }
 
-@misc{nissim2001bridging,
+@phdthesis{nissim2001bridging,
   title={Bridging Definites and Possessives: Distribution of Determiners in Anaphoric Noun Phrases},
   author={Nissim, Malvina},
   year={2001},
-  publisher={Universita degli Studi di Pavia}
+  publisher={Universit\`{a} degli Studi di Pavia}
 }
 
 
@@ -464,7 +588,7 @@ institution={EU Horizon}
 
 @inproceedings{nissim2013cross,
   title={Cross-linguistic annotation of modality: a data-driven hierarchical model},
-  author={Nissim, Malvina and Pietrandrea, Paola and Sanso, Andrea and Mauri, Caterina},
+  author={Nissim, Malvina and Pietrandrea, Paola and Sans\`{o}, Andrea and Mauri, Caterina},
   booktitle={Proceedings of the 9th Joint ISO-ACL SIGSEM Workshop on Interoperable Semantic Annotation},
   pages={7--14},
   year={2013}
@@ -536,16 +660,6 @@ institution={EU Horizon}
     pages = "57--61",
 }
 
-
-
-@article{bos2009using,
-  title={Using the Web as a Corpus in Natural Language Processing},
-  author={Bos, Johan and Nissim, Malvina},
-  journal={Using the Web as a Corpus in Natural Language Processing},
-  pages={1000--1007},
-  year={2009},
-  publisher={Bulzoni}
-}
 
 @inproceedings{bjerva-etal-2014-meaning,
     title = "The Meaning Factory: Formal Semantics for Recognizing Textual Entailment and Determining Semantic Similarity",
@@ -2174,4 +2288,5 @@ publisher={Association for Computational Linguistics},
   year={2024},
   publisher={ACM New York, NY},
   url={https://dl.acm.org/doi/10.1145/3654795},
+  abstract={Figurative language generation (FLG) is the task of reformulating a given text to include a desired figure of speech, such as a hyperbole, a simile, and several others, while still being faithful to the original context. This is a fundamental, yet challenging task in Natural Language Processing (NLP), which has recently received increased attention due to the promising performance brought by pre-trained language models. Our survey provides a systematic overview of the development of FLG, mostly in English, starting with the description of some common figures of speech, their corresponding generation tasks and datasets. We then focus on various modelling approaches and assessment strategies, leading us to discussing some challenges in this field, and suggesting some potential directions for future research. To the best of our knowledge, this is the first survey that summarizes the progress of FLG including the most recent development in NLP. We also organize corresponding resources, e.g., paper lists and datasets, and make them accessible in an open repository. We hope this survey can help researchers in NLP and related fields to easily track the academic frontier, providing them with a landscape and a roadmap of this area.}
 }
