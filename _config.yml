@@ -64,6 +64,7 @@ scholar:
   locale: en
   bibliography_template: bibtemplateMN
 
+
 author:
   name   : "Malvina Nissim"
   avatar : "assets/images/me-ww-small.jpeg"
