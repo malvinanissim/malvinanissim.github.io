@@ -1048,14 +1048,30 @@ institution={EU Horizon}
     abstract = "Gender prediction has typically focused on lexical and social network features, yielding good performance, but making systems highly language-, topic-, and platform dependent. Cross-lingual embeddings circumvent some of these limitations, but capture gender-specific style less. We propose an alternative: bleaching text, i.e., transforming lexical strings into more abstract features. This study provides evidence that such features allow for better transfer across languages. Moreover, we present a first study on the ability of humans to perform cross-lingual gender prediction. We find that human predictive power proves similar to that of our bleached models, and both perform better than lexical models.",
 }
 
-
-@inproceedings{kulmizev2018discriminator,
-  title={Discriminator at semeval-2018 task 10: Minimally supervised discrimination},
-  author={Kulmizev, Artur and Abdou, Mostafa and Ravishankar, Vinit and Nissim, Malvina},
-  booktitle={Proceedings of The 12th International Workshop on Semantic Evaluation},
-  pages={1008--1012},
-  year={2018}
+@inproceedings{kulmizev-etal-2018-discriminator,
+    title = "Discriminator at {S}em{E}val-2018 Task 10: Minimally Supervised Discrimination",
+    author = "Kulmizev, Artur  and
+      Abdou, Mostafa  and
+      Ravishankar, Vinit  and
+      Nissim, Malvina",
+    editor = "Apidianaki, Marianna  and
+      Mohammad, Saif M.  and
+      May, Jonathan  and
+      Shutova, Ekaterina  and
+      Bethard, Steven  and
+      Carpuat, Marine",
+    booktitle = "Proceedings of the 12th International Workshop on Semantic Evaluation",
+    month = jun,
+    year = "2018",
+    address = "New Orleans, Louisiana",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/S18-1167",
+    doi = "10.18653/v1/S18-1167",
+    pages = "1008--1012",
+    abstract = "We participated to the SemEval-2018 shared task on capturing discriminative attributes (Task 10) with a simple system that ranked 8th amongst the 26 teams that took part in the evaluation. Our final score was 0.67, which is competitive with the winning score of 0.75, particularly given that our system is a zero-shot system that requires no training and minimal parameter optimisation. In addition to describing the submitted system, and discussing the implications of the relative success of such a system on this task, we also report on other, more complex models we experimented with.",
 }
+
+
 
 @book{nissim2018proceedings-peoples,
   title={Proceedings of the Second Workshop on Computational Modeling of People’s Opinions, Personality, and Emotions in Social Media},
@@ -1071,14 +1087,28 @@ publisher={Association for Computational Linguistics},
 publisher={Association for Computational Linguistics},
 }
 
-@inproceedings{haagsma2018other,
-  title={The other side of the coin: Unsupervised disambiguation of potentially idiomatic expressions by contrasting senses},
-  author={Haagsma, Hessel and Nissim, Malvina and Bos, Johan},
-  booktitle={Proceedings of the Joint Workshop on Linguistic Annotation, Multiword Expressions and Constructions (LAW-MWE-CxG-2018)},
-  pages={178--184},
-  year={2018},
-  organization={Association for Computational Linguistics (ACL)}
+@inproceedings{haagsma-etal-2018-side,
+    title = "The Other Side of the Coin: Unsupervised Disambiguation of Potentially Idiomatic Expressions by Contrasting Senses",
+    author = "Haagsma, Hessel  and
+      Nissim, Malvina  and
+      Bos, Johan",
+    editor = "Savary, Agata  and
+      Ramisch, Carlos  and
+      Hwang, Jena D.  and
+      Schneider, Nathan  and
+      Andresen, Melanie  and
+      Pradhan, Sameer  and
+      Petruck, Miriam R. L.",
+    booktitle = "Proceedings of the Joint Workshop on Linguistic Annotation, Multiword Expressions and Constructions ({LAW}-{MWE}-{C}x{G}-2018)",
+    month = aug,
+    year = "2018",
+    address = "Santa Fe, New Mexico, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W18-4919",
+    pages = "178--184",
+    abstract = "Disambiguation of potentially idiomatic expressions involves determining the sense of a potentially idiomatic expression in a given context, e.g. determining that make hay in {`}Investment banks made hay while takeovers shone.{'} is used in a figurative sense. This enables automatic interpretation of idiomatic expressions, which is important for applications like machine translation and sentiment analysis. In this work, we present an unsupervised approach for English that makes use of literalisations of idiom senses to improve disambiguation, which is based on the lexical cohesion graph-based method by Sporleder and Li (2009). Experimental results show that, while literalisation carries novel information, its performance falls short of that of state-of-the-art unsupervised methods.",
 }
+
 
 
 @inproceedings{basile2018simply,
@@ -1142,16 +1172,21 @@ publisher={Association for Computational Linguistics},
   year={2017}
 }
 
-
-@article{nissim2020fair,
-  title={Fair is better than sensational: Man is to doctor as woman is to doctor},
-  author={Nissim, Malvina and van Noord, Rik and Van Der Goot, Rob},
-  journal={Computational Linguistics},
-  volume={46},
-  number={2},
-  pages={487--497},
-  year={2020},
-  publisher={MIT Press}
+@article{nissim-etal-2020-fair,
+    title = "Fair Is Better than Sensational: Man Is to Doctor as Woman Is to Doctor",
+    author = "Nissim, Malvina  and
+      van Noord, Rik  and
+      van der Goot, Rob",
+    journal = "Computational Linguistics",
+    volume = "46",
+    number = "2",
+    month = jun,
+    year = "2020",
+    url = "https://aclanthology.org/2020.cl-2.7",
+    doi = "10.1162/coli_a_00379",
+    pages = "487--497",
+    abstract = "Analogies such as man is to king as woman is to X are often used to illustrate the amazing power of word embeddings. Concurrently, they have also been used to expose how strongly human biases are encoded in vector spaces trained on natural language, with examples like man is to computer programmer as woman is to homemaker. Recent work has shown that analogies are in fact not an accurate diagnostic for bias, but this does not mean that they are not used anymore, or that their legacy is fading. Instead of focusing on the intrinsic problems of the analogy task as a bias detection tool, we discuss a series of issues involving implementation as well as subjective choices that might have yielded a distorted picture of bias in word embeddings. We stand by the truth that human biases are present in word embeddings, and, of course, the need to address them. But analogies are not an accurate tool to do so, and the way they have been most often used has exacerbated some possibly non-existing biases and perhaps hidden others. Because they are still widely popular, and some of them have become classics within and outside the NLP community, we deem it important to provide a series of clarifications that should put well-known, and potentially new analogies, into the right perspective.",
+  publisher={MIT Press},
 }
 
 
@@ -1254,7 +1289,21 @@ publisher={Association for Computational Linguistics},
   title={Geppetto carves italian into a language model},
   author={De Mattei, Lorenzo and Cafagna, Michele and Dell'Orletta, Felice and Nissim, Malvina and Guerini, Marco},
   booktitle={Proceedings of CLiC-it~2020},
-  year={2020}
+  year={2020},
+  url={https://ceur-ws.org/Vol-2769/paper_46.pdf},
+  abstract={In the last few years, pre-trained neural architectures have provided impressive improvements across several NLP tasks. Still, generative language models are available mainly
+for English. We develop GePpeTto, the first
+generative language model for Italian, built
+using the GPT-2 architecture. We provide
+a thorough analysis of GePpeTto’s quality
+by means of both an automatic and a humanbased evaluation. The automatic assessment
+consists in (i) calculating perplexity across different genres and (ii) a profiling analysis over
+GePpeTto’s writing characteristics. We find
+that GePpeTto’s production is a sort of bonsai version of human production, with shorter
+but yet complex sentences. Human evaluation
+is performed over a sentence completion task,
+where GePpeTto’s output is judged as natural more often than not, and much closer to
+the original human texts than to a simpler language model which we take as baseline.},
 }
 
 
@@ -1264,33 +1313,106 @@ publisher={Association for Computational Linguistics},
   booktitle={Proceedings of the Shared Task on Cross-Genre Gender Prediction in Dutch at CLIN29 (GxG-CLIN29)},
   pages={1--5},
   year={2019},
-  publisher={CEUR Proceedings 2453}
+  publisher={CEUR Proceedings 2453},
+  url={https://ceur-ws.org/Vol-2453/paper00.pdf},
+  abstract={This overview presents the results of the cross-genre gender
+prediction task (GxG) organized at CLIN29. Teams were tasked with
+training a system to predict the gender of authors of tweets, YouTube
+comments and news articles. In the cross-genre setting, systems were
+trained on two genres, and tested on the other to assess domain adaptivity of the solutions. Eight teams participated in the shared task. Performance was generally better in the in-genre setting. In the cross-genre
+settings, performance on news articles declined the most compared to
+other target genres.},
 }
 
-@inproceedings{haagsma2020magpie,
-  title={MAGPIE: A large corpus of potentially idiomatic expressions},
-  author={Haagsma, Hessel and Bos, Johan and Nissim, Malvina},
-  booktitle={12th Language Resources and Evaluation Conference: LREC 2020},
-  pages={279--287},
-  year={2020},
-  organization={European Language Resources Association (ELRA)}
+
+@inproceedings{haagsma-etal-2020-magpie,
+    title = "{MAGPIE}: A Large Corpus of Potentially Idiomatic Expressions",
+    author = "Haagsma, Hessel  and
+      Bos, Johan  and
+      Nissim, Malvina",
+    editor = "Calzolari, Nicoletta  and
+      B{\'e}chet, Fr{\'e}d{\'e}ric  and
+      Blache, Philippe  and
+      Choukri, Khalid  and
+      Cieri, Christopher  and
+      Declerck, Thierry  and
+      Goggi, Sara  and
+      Isahara, Hitoshi  and
+      Maegaard, Bente  and
+      Mariani, Joseph  and
+      Mazo, H{\'e}l{\`e}ne  and
+      Moreno, Asuncion  and
+      Odijk, Jan  and
+      Piperidis, Stelios",
+    booktitle = "Proceedings of the Twelfth Language Resources and Evaluation Conference",
+    month = may,
+    year = "2020",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2020.lrec-1.35",
+    pages = "279--287",
+    abstract = "Given the limited size of existing idiom corpora, we aim to enable progress in automatic idiom processing and linguistic analysis by creating the largest-to-date corpus of idioms for English. Using a fixed idiom list, automatic pre-extraction, and a strictly controlled crowdsourced annotation procedure, we show that it is feasible to build a high-quality corpus comprising more than 50K instances, an order of a magnitude larger than previous resources. Crucial ingredients of crowdsourcing were the selection of crowdworkers, clear and comprehensive instructions, and an interface that breaks down the task in small, manageable steps. Analysis of the resulting corpus revealed strong effects of genre on idiom distribution, providing new evidence for existing theories on what influences idiom usage. The corpus also contains rich metadata, and is made publicly available.",
+    language = "English",
+    ISBN = "979-10-95546-34-4",
 }
 
-@inproceedings{van2020lower,
-  title={Lower bias, higher density abusive language datasets: A recipe},
-  author={Van Rosendaal, Juliet and Caselli, Tommaso and Nissim, Malvina},
-  booktitle={Workshop on Resources and Techniques for User and Author Profiling in Abusive Language},
-  year={2020},
-  organization={European Language Resources Association (ELRA)}
+
+@inproceedings{van-rosendaal-etal-2020-lower,
+    title = "Lower Bias, Higher Density Abusive Language Datasets: A Recipe",
+    author = "van Rosendaal, Juliet  and
+      Caselli, Tommaso  and
+      Nissim, Malvina",
+    editor = "Monti, Johanna  and
+      Basile, Valerio  and
+      Buono, Maria Pia Di  and
+      Manna, Raffaele  and
+      Pascucci, Antonio  and
+      Tonelli, Sara",
+    booktitle = "Proceedings of the Workshop on Resources and Techniques for User and Author Profiling in Abusive Language",
+    month = may,
+    year = "2020",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association (ELRA)",
+    url = "https://aclanthology.org/2020.restup-1.4",
+    pages = "14--19",
+    abstract = "Datasets to train models for abusive language detection are at the same time necessary and still scarce. One the reasons for their limited availability is the cost of their creation. It is not only that manual annotation is expensive, it is also the case that the phenomenon is sparse, causing human annotators having to go through a large number of irrelevant examples in order to obtain some significant data. Strategies used until now to increase density of abusive language and obtain more meaningful data overall, include data filtering on the basis of pre-selected keywords and hate-rich sources of data. We suggest a recipe that at the same time can provide meaningful data with possibly higher density of abusive language and also reduce top-down biases imposed by corpus creators in the selection of the data to annotate. More specifically, we exploit the controversy channel on Reddit to obtain keywords that are used to filter a Twitter dataset. While the method needs further validation and refinement, our preliminary experiments show a higher density of abusive tweets in the filtered vs unfiltered dataset, and a more meaningful topic distribution after filtering.",
+    language = "English",
+    ISBN = "979-10-95546-49-8",
 }
 
-@inproceedings{de2020invisible,
-  title={Invisible to people but not to machines: Evaluation of style-aware HeadlineGeneration in absence of reliable human judgment},
-  author={De Mattei, Lorenzo and Cafagna, Michele and Dell’Orletta, Felice and Nissim, Malvina},
-  booktitle={Proceedings of the Twelfth Language Resources and Evaluation Conference},
-  pages={6709--6717},
-  year={2020}
+@inproceedings{de-mattei-etal-2020-invisible,
+    title = "Invisible to People but not to Machines: Evaluation of Style-aware {H}eadline{G}eneration in Absence of Reliable Human Judgment",
+    author = "De Mattei, Lorenzo  and
+      Cafagna, Michele  and
+      Dell{'}Orletta, Felice  and
+      Nissim, Malvina",
+    editor = "Calzolari, Nicoletta  and
+      B{\'e}chet, Fr{\'e}d{\'e}ric  and
+      Blache, Philippe  and
+      Choukri, Khalid  and
+      Cieri, Christopher  and
+      Declerck, Thierry  and
+      Goggi, Sara  and
+      Isahara, Hitoshi  and
+      Maegaard, Bente  and
+      Mariani, Joseph  and
+      Mazo, H{\'e}l{\`e}ne  and
+      Moreno, Asuncion  and
+      Odijk, Jan  and
+      Piperidis, Stelios",
+    booktitle = "Proceedings of the Twelfth Language Resources and Evaluation Conference",
+    month = may,
+    year = "2020",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2020.lrec-1.828",
+    pages = "6709--6717",
+    abstract = "We automatically generate headlines that are expected to comply with the specific styles of two different Italian newspapers. Through a data alignment strategy and different training/testing settings, we aim at decoupling content from style and preserve the latter in generation. In order to evaluate the generated headlines{'} quality in terms of their specific newspaper-compliance, we devise a fine-grained evaluation strategy based on automatic classification. We observe that our models do indeed learn newspaper-specific style. Importantly, we also observe that humans aren{'}t reliable judges for this task, since although familiar with the newspapers, they are not able to discern their specific styles even in the original human-written headlines. The utility of automatic evaluation goes therefore beyond saving the costs and hurdles of manual annotation, and deserves particular care in its design.",
+    language = "English",
+    ISBN = "979-10-95546-34-4",
 }
+
+
 
 
 @techreport{sabou2007selection,
@@ -1560,14 +1682,31 @@ publisher={Association for Computational Linguistics},
 }
 
 
-@inproceedings{de2021human,
-  title={Human perception in natural language generation},
-  author={De Mattei, Lorenzo and Lai, Huiyuan and Dell'Orletta, Felice and Nissim, Malvina},
-  booktitle={Proceedings of the 1st Workshop on Natural Language Generation, Evaluation, and Metrics},
-  pages={15--23},
-  year={2021},
-  organization={Association for Computational Linguistics, ACL Anthology}
+@inproceedings{de-mattei-etal-2021-human,
+    title = "Human Perception in Natural Language Generation",
+    author = "De Mattei, Lorenzo  and
+      Lai, Huiyuan  and
+      Dell{'}Orletta, Felice  and
+      Nissim, Malvina",
+    editor = "Bosselut, Antoine  and
+      Durmus, Esin  and
+      Gangal, Varun Prashant  and
+      Gehrmann, Sebastian  and
+      Jernite, Yacine  and
+      Perez-Beltrachini, Laura  and
+      Shaikh, Samira  and
+      Xu, Wei",
+    booktitle = "Proceedings of the 1st Workshop on Natural Language Generation, Evaluation, and Metrics (GEM 2021)",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.gem-1.2",
+    doi = "10.18653/v1/2021.gem-1.2",
+    pages = "15--23",
+    abstract = "We ask subjects whether they perceive as human-produced a bunch of texts, some of which are actually human-written, while others are automatically generated. We use this data to fine-tune a GPT-2 model to push it to generate more human-like texts, and observe that this fine-tuned model produces texts that are indeed perceived more human-like than the original model. Contextually, we show that our automatic evaluation strategy well correlates with human judgements. We also run a linguistic analysis to unveil the characteristics of human- vs machine-perceived language.",
 }
+
 
 
 @article{cafagna2020embeddings,
@@ -1578,17 +1717,38 @@ publisher={Association for Computational Linguistics},
   number={6-2},
   pages={9--22},
   year={2020},
-  publisher={Accademia University Press}
+  publisher={Accademia University Press},
+  abstract={We study how words are used differently in two Italian newspapers at opposite ends of the political spectrum by training embeddings on one newspaper’s corpus, updating the weights on the second one, and observing vector shifts. We run two types of analysis, one top-down, based on a preselection of frequent words in both newspapers, and one bottom-up, on the basis of a combination of the observed shifts and relative and absolute frequency. The analysis is specific to this data, but the method can serve as a blueprint for similar studies.},
+  url={https://journals.openedition.org/ijcol/703},
 }
 
-@inproceedings{caselli2021dalc,
-  title={DALC: the Dutch abusive language corpus},
-  author={Caselli, Tommaso and Schelhaas, Arjan and Weultjes, Marieke and Leistra, Folkert and Van Der Veen, Hylke and Timmerman, Gerben and Nissim, Malvina},
-  booktitle={Proceedings of the 5th Workshop on Online Abuse and Harm},
-  pages={54--66},
-  year={2021},
-  organization={Association for Computational Linguistics (ACL)}
+
+@inproceedings{caselli-etal-2021-dalc,
+    title = "{DALC}: the {D}utch Abusive Language Corpus",
+    author = "Caselli, Tommaso  and
+      Schelhaas, Arjan  and
+      Weultjes, Marieke  and
+      Leistra, Folkert  and
+      van der Veen, Hylke  and
+      Timmerman, Gerben  and
+      Nissim, Malvina",
+    editor = "Mostafazadeh Davani, Aida  and
+      Kiela, Douwe  and
+      Lambert, Mathias  and
+      Vidgen, Bertie  and
+      Prabhakaran, Vinodkumar  and
+      Waseem, Zeerak",
+    booktitle = "Proceedings of the 5th Workshop on Online Abuse and Harms (WOAH 2021)",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.woah-1.6",
+    doi = "10.18653/v1/2021.woah-1.6",
+    pages = "54--66",
+    abstract = "As socially unacceptable language become pervasive in social media platforms, the need for automatic content moderation become more pressing. This contribution introduces the Dutch Abusive Language Corpus (DALC v1.0), a new dataset with tweets manually an- notated for abusive language. The resource ad- dress a gap in language resources for Dutch and adopts a multi-layer annotation scheme modeling the explicitness and the target of the abusive messages. Baselines experiments on all annotation layers have been conducted, achieving a macro F1 score of 0.748 for binary classification of the explicitness layer and .489 for target classification.",
 }
+
 
 @inproceedings{lai-etal-2021-generic,
     title = "Generic resources are what you need: Style transfer tasks without task-specific parallel training data",
@@ -1633,11 +1793,26 @@ publisher={Association for Computational Linguistics},
 @inproceedings{minnema2021frame,
   title={Frame semantics for social NLP in Italian: Analyzing responsibility framing in femicide news reports},
   author={Minnema, Gosse and Gemelli, Sara and Zanchi, Chiara and Patti, Viviana and Caselli, Tommaso and Nissim, Malvina and others},
-  booktitle={CEUR WORKSHOP PROCEEDINGS},
+  booktitle={Proceedings of the Seventh Italian Conference on Computational Linguistics (CLiC-it 2021)},
   volume={3033},
   pages={1--8},
   year={2021},
-  organization={CEUR-WS}
+  organization={CEUR-WS},
+  abstract={We propose using a FrameNet-based approach for analyzing how socially relevant
+events are framed in media discourses.
+Taking femicides as an example, we perform a preliminary investigation on a large
+dataset of news reports and event data covering recent femicides in Italy. First, we
+revisit the EVALITA 2011 shared task on
+Italian frame labeling, and test a recent
+multilingual frame semantic parser against
+this benchmark. Then, we experiment
+with specializing this model for Italian and
+perform a human evaluation to test our
+model’s real-world applicability. We show
+how FrameNet-based analyses can help to
+identify linguistic constructions that background the agentivity and responsibility of
+femicide perpetrators in Italian news.},
+  url={https://ceur-ws.org/Vol-3033/paper32.pdf},
 }
 
 @book{basile2006evalita,
@@ -1732,9 +1907,12 @@ publisher={Association for Computational Linguistics},
   title={Harvesting Perspectives in Social Media},
   author={Caselli, Tommaso and Nissim, Malvina},
   booktitle={Creating a More Transparent Internet: The Perspective Web},
-  pages={244},
+  pages={244-259},
+  editor={Piek Vossen and Antske Vossen},
   year={2022},
-  publisher={Cambridge University Press}
+  collection={Studies in Natural Language Processing},
+  publisher={Cambridge University Press},
+  url={https://www.cambridge.org/core/books/creating-a-more-transparent-internet/harvesting-perspectives-in-social-media-tommaso-caselli-and-malvina-nissim/D4EA9A2EA6A99C8F6AE37CA4633F3307},
 }
 
 @inproceedings{lang-etal-2022-visually,
@@ -1885,11 +2063,13 @@ publisher={Association for Computational Linguistics},
 
 @article{gosse2022responsibility,
   title={Responsibility Framing under the Magnifying Lens of NLP: The Case of Gender-based Violence and Traffic Danger},
-  author={Gosse, Minnema and Ruggiero, Gaetana and Marion, Bartle and Sara, Gemelli and Tommaso, Caselli and Chiara, Zanchi and Patti, Viviana and Marco, te Br{\"o}mmelstroet and Malvina, Nissim and others},
+  author={Gosse Minnema and Gaetana Ruggiero and Marion Bartl and Sara Gemelli and Tommaso Caselli and Chiara Zanchi and Viviana Patti and Marco te Br{\"o}mmelstroet and Malvina Nissim},
   journal={Computational Linguistics in the Netherlands Journal},
   volume={12},
   pages={207--233},
-  year={2022}
+  year={2022},
+  url={https://clinjournal.org/clinj/article/view/155},
+  abstract={We introduce a framework for the computational analysis of how responsibility is framed in the reporting of two types of socially relevant events: gender-based violence (specifically, femicides in the Italian press), and traffic danger (specifically, traffic crashes in Dutch and Flemish news reports). We advocate for the parallel analysis of these two phenomena under the same theoretical framework, which draws on Frame Semantics, Critical Discourse Analysis and Natural Language Processing. Reusing two existing event-text datasets we show how computational experiments and the resulting analyses can be run. This work supports the testing and development of tools for NLP practitioners, as well as large-scale linguistic analyses for activists and journalists, in the context of socially impacting events.},
 }
 
 
@@ -1924,7 +2104,9 @@ publisher={Association for Computational Linguistics},
   title={Multidimensional evaluation for text style transfer using {ChatGPT}},
   author={Lai, Huiyuan and Toral, Antonio and Nissim, Malvina},
   journal={arXiv preprint arXiv:2304.13462},
-  year={2023}
+  url={https://arxiv.org/abs/2304.13462},
+  year={2023},
+  abstract={We investigate the potential of ChatGPT as a multidimensional evaluator for the task of \emph{Text Style Transfer}, alongside, and in comparison to, existing automatic metrics as well as human judgements. We focus on a zero-shot setting, i.e. prompting ChatGPT with specific task instructions, and test its performance on three commonly-used dimensions of text style transfer evaluation: style strength, content preservation, and fluency. We perform a comprehensive correlation analysis for two transfer directions (and overall) at different levels. Compared to existing automatic metrics, ChatGPT achieves competitive correlations with human judgments. These preliminary results are expected to provide a first glimpse into the role of large language models in the multidimensional evaluation of stylized text generation.},
 }
 
 
@@ -2070,7 +2252,11 @@ publisher={Association for Computational Linguistics},
   volume={233},
   pages={120874},
   year={2023},
-  publisher={Pergamon}
+  publisher={Pergamon},
+  issn = {0957-4174},
+  doi = {https://doi.org/10.1016/j.eswa.2023.120874},
+  url = {https://www.sciencedirect.com/science/article/pii/S0957417423013763},
+  abstract={Physicians and patients often come from different backgrounds and have varying levels of education, which can result in communication difficulties in the healthcare process. To address this expertise gap, we present a “Text Style Transfer” system. Our system uses Semantic Textual Similarity techniques based on Sentence Transformers models to create pseudo-parallel datasets from a large, non-parallel corpus of lay and expert texts. This approach allowed us to train a denoising autoencoder model (BART), overcoming the limitations of previous systems. Our extensive analysis, which includes both automatic metrics and human evaluations from both lay (patients) and expert (physicians) individuals, shows that our system outperforms state-of-the-art models and is comparable to human-provided gold references in some cases.}
 }
 
 
@@ -2100,8 +2286,14 @@ publisher={Association for Computational Linguistics},
   number={2},
   pages={307--320},
   year={2023},
-  publisher={Societ{\`a} editrice il Mulino}
+  publisher={Societ{\`a} editrice il Mulino},
+  issn="1120-9550",
+  doi="10.1422/108131",
+  url="https://www.rivisteweb.it/doi/10.1422/108131",
+  keywords="ChatGPT, natural language processing, language generation, large language models, generalized pretrained transformers, fair artificial intelligence",
+  abstract={ChatGPT has revolutionised the way people view and interact with language-based artificial agents. But is it a real revolution? And are people using ChatGPT with appropriate knowledge of its inner workings, its abilities, and potential risks? We think ChatGPT is very much in need of some proper contextualisation. In this short contribution we show how ChatGPT has come to life, both historically and technically, describing in detail the anatomy of large language models, and on the basis of this we clarify what ChatGPT can (be expected to) do, and what it cannot. We also discuss its limitations, specifically related to its intrinsic inability to be factual in what it generates, its reflection of societal biases, and the broader ethical implications of its use.},
 }
+
 
 @article{calhoun2009nxt,
   title={NXT switchboard annotations},
@@ -2208,15 +2400,22 @@ publisher={Association for Computational Linguistics},
   publisher={Il Mulino}
 }
 
-@article{bacco2023instability,
-  title={On the instability of further pre-training: Does a single sentence matter to BERT?},
-  author={Bacco, Luca and Minnema, Gosse and Caselli, Tommaso and Dell’Orletta, Felice and Merone, Mario and Nissim, Malvina},
-  journal={Natural Language Processing Journal},
-  volume={5},
-  pages={100037},
-  year={2023},
-  publisher={Elsevier}
+
+@article{BACCO2023100037,
+title = {On the instability of further pre-training: Does a single sentence matter to BERT?},
+journal = {Natural Language Processing Journal},
+volume = {5},
+pages = {100037},
+year = {2023},
+issn = {2949-7191},
+doi = {https://doi.org/10.1016/j.nlp.2023.100037},
+url = {https://www.sciencedirect.com/science/article/pii/S2949719123000341},
+author = {Luca Bacco and Gosse Minnema and Tommaso Caselli and Felice Dell’Orletta and Mario Merone and Malvina Nissim},
+keywords = {Natural language processing, Large language models, Further pre-training, Transformers, Instability, BERT},
+abstract = {We observe a remarkable instability in BERT-like models: minimal changes in the internal representations of BERT, as induced by one-step further pre-training with even a single sentence, can noticeably change the behaviour of subsequently fine-tuned models. While the pre-trained models seem to be essentially the same, also by means of established similarity assessment techniques, the measurable tiny changes appear to substantially impact the models’ tuning path, leading to significantly different fine-tuned systems and affecting downstream performance. After testing a very large number of combinations, which we briefly summarize, the experiments reported in this short paper focus on an intermediate phase consisting of a single-step and single-sentence masked language modeling stage and its impact on a sentiment analysis task. We discuss a series of unexpected findings which leave some open questions over the nature and stability of further pre-training.}
 }
+
+
 
 @book{nissim2015proceedings,
   title={Proceedings of the Workshop on Models for Modality Annotation},
@@ -2286,7 +2485,9 @@ publisher={Association for Computational Linguistics},
   title={Inseq: An interpretability toolkit for sequence generation models},
   author={Sarti, Gabriele and Feldhus, Nils and Sickert, Ludwig and Van Der Wal, Oskar and Nissim, Malvina and Bisazza, Arianna},
   journal={arXiv preprint arXiv:2302.13942},
-  year={2023}
+  year={2023},
+  abstract={Past work in natural language processing interpretability focused mainly on popular classification tasks while largely overlooking generation settings, partly due to a lack of dedicated tools. In this work, we introduce Inseq, a Python library to democratize access to interpretability analyses of sequence generation models. Inseq enables intuitive and optimized extraction of models' internal information and feature importance scores for popular decoder-only and encoder-decoder Transformers architectures. We showcase its potential by adopting it to highlight gender biases in machine translation models and locate factual knowledge inside GPT-2. Thanks to its extensible interface supporting cutting-edge techniques such as contrastive feature attribution, Inseq can drive future advances in explainable natural language generation, centralizing good practices and enabling fair and reproducible model evaluations.},
+  url={https://doi.org/10.48550/arXiv.2302.13942},
 }
 
 
