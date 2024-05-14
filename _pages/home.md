@@ -15,7 +15,7 @@ feature_row:
   - image_path: assets/images/tedx.JPG
     alt: TEDx Talk
     title: TEDx Talk
-    excerpt: I recently gave a TEDx Talk on Language, Humans, and AI, and how machines might challenge our stereotypical thinking
+    excerpt: I gave a TEDx Talk on Language, Humans, and AI, and how machines might challenge our stereotypical thinking
     url: https://www.youtube.com/watch?v=NcyTQK-FaMM
     btn_label: Watch it
     btn_class: btn--primary
@@ -48,7 +48,9 @@ feature_row:
   <hr>
 -->
 
+
 I work in Natural Language Processing and its application to societally relevant problems. Besides my research activities I am particularly active in science communication and outreach, including to school children, especially towards an aware and responsible use of language technologies. I really enjoy public speaking, and once I got to give a [TEDx talk](https://www.youtube.com/watch?v=NcyTQK-FaMM). I was also invited by the European Council to give a plenary lecture on gender bias in Artificial Intelligence on International Women's Day 2021. As a university professor I teach quite a bit, and I love it - proud to be elected as the 2016 University of Groningen [Lecturer of the Year](https://www.rug.nl/news/2017/01/dr.-malvina-nissim-elected-lecturer-of-the-year). 
+
 
 > - I am the coordinator of the [Sectorplan](https://www.rug.nl/research/research-let/sectorplan-website/)'s theme [*Humane AI*](https://www.rug.nl/research/research-let/sectorplan-website/humaneai/) at the University of Groningen
 > - I am a member of the [ACL Ethics Committee](https://www.aclweb.org/portal/content/acl-establishes-its-ethics-committee)
