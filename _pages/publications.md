@@ -6,7 +6,7 @@ permalink: /publications/
 # Publications
 My publications are listed below. You can also download a [full pdf](/assets/publications.pdf) (most recent first).
 
-{% bibliography --style apa --file references  --reverse %}
+{% bibliography --style apa-no-doi-no-issue --file references  --reverse %}
 
 <script>
 function toggleBibtex(parameter) {
