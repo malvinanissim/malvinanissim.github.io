@@ -92,11 +92,3 @@ The book is available on the [Carocci](https://www.carocci.it/prodotto/che-cose-
 
 Some past events are listed [here](pastevents)
 
-
-
-<!-- 
-<div class="grid__wrapper">
-  <h2 id="highlights">Highlights</h2>
- {% include feature_row %}
- </div>
--->

@@ -6,19 +6,15 @@
 <div class="text-justify">{{reference | replace_first: 'Nissim, M.', '<b>Nissim, M.</b>'}}</div>
 
 {% if entry.url %}
-    <a href="{{ entry.url }}" target="_blank"><button class="btn btn--success btm-sm">URL</button></a>
+    <a href="{{ entry.url }}" target="_blank"><button class="btn btn--success btn-sm">link</button></a>
 {% endif %}
 
-{% if entry.doi %}
-    <a href="{{ entry.doi | prepend: 'http://doi.org/' }}" target="_blank"><button class="btn btn--primary btm-sm">DOI</button></a>
-{% endif %}
-
-{% if entry.type == 'unpublished' or entry.type == 'article' or entry.type == 'incollection' or  entry.type == 'thesis' or entry.type == 'inproceedings' or entry.type == 'report' %}
-    <button class="btn btn--danger btm-sm"  type="button" onclick="toggleBibtex('{{entry.key | replace: '-', ''}}')">BIB</button>
+{% if entry.type %}
+    <button class="btn btn--primary btn-sm"  type="button" onclick="toggleBibtex('{{entry.key | replace: '-', ''}}')">bib</button>
 {% endif %}
 
 {% if entry.abstract %}
-    <button class="btn btn--warning btm-sm"  onclick="toggleAbstract('{{entry.key | replace: '-', ''}}')">ABSTRACT</button>
+    <button class="btn btn--warning btn-sm"  onclick="toggleAbstract('{{entry.key | replace: '-', ''}}')">abstract</button>
 {% endif %}
 
 {% if entry.abstract %}

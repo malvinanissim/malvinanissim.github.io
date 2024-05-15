@@ -62,7 +62,7 @@ scholar:
   type_order: [book, article, inproceedings, incollection, thesis, manual, techreport, misc, unpublished]
   query: "@*[author ~= Nissim]"
   locale: en
-  bibliography_template: bibtemplateMN
+  bibliography_template: bibtemplate
 
 
 author:
