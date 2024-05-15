@@ -55,7 +55,7 @@ plugins:
 
 scholar:
   remove_duplicates: true
-  style: chicago-annotated-bibliography.csl
+  style: apa-no-doi-no-issue-no-retrieved
   group_by: year
   sort_by: year
   group_order: descending
