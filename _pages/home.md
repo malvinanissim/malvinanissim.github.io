@@ -5,26 +5,26 @@ header:
   overlay_filter: 0
 excerpt: CLCG, University of Groningen<br/>
 feature_row:
-  - image_path: assets/images/dvhj.jpg
-    alt: Lecturer Year
-    title: Lecturer of the Year
-    excerpt: I was elected as the 2016 Lecturer of the Year of the University of Groningen
-    url: https://www.rug.nl/about-us/news-and-events/news/archief2017/nieuwsberichten/dr.-malvina-nissim-elected-lecturer-of-the-year
-    btn_label: Learn more
+  - image_path: assets/images/book.jpeg
+    alt: Book
+    title: Book
+    excerpt: I wrote a introductory book to Computational Linguistics (in Italian), together with Ludovica Pannitto, and with drawings by Myriam Nissim.
+    url: /book/
+    btn_label: Read
     btn_class: btn--primary
-  - image_path: assets/images/tedx.JPG
+  - image_path: assets/images/tedxfull.png
     alt: TEDx Talk
     title: TEDx Talk
-    excerpt: I gave a TEDx Talk on Language, Humans, and AI, and how machines might challenge our stereotypical thinking
+    excerpt: I gave a TEDx Talk on Language, Humans, and AI, and how machines might challenge our stereotypical thinking.
     url: https://www.youtube.com/watch?v=NcyTQK-FaMM
-    btn_label: Watch it
+    btn_label: Watch
     btn_class: btn--primary
-  - image_path: assets/images/pan2017.JPG
-    title: 1st @PAN2017
-    alt: 1st @PAN2017
-    url: http://pan.webis.de/clef17/pan17-web/author-profiling.html
-    excerpt: Our system won the international competition on Author Profiling (PAN 2017) for the second year in a row
-    btn_label: Learn more
+  - image_path: assets/images/podcast-tassos.jpg
+    title: Podcast
+    alt: Podcast
+    url: https://soundcloud.com/degrees_of_freedom/s2-ep7-chat-gpt
+    excerpt: The most rewarding conversation I had on ChatGPT, and especially its impact on education, was on this podcast episode.
+    btn_label: Listen
     btn_class: btn--primary
 ---
 
@@ -61,23 +61,7 @@ I work in Natural Language Processing and its application to societally relevant
 <hr>
 
 
-<div markdown=1>
 
-
-<img align="left" src="/assets/images/book.jpeg" alt="book" width="200" href="https://www.carocci.it/prodotto/che-cose-la-linguistica-computazionale" hspace=30/>
-An easy access introduction to Computational Linguistics (in Italian) with amazing drawings by Myriam Nissim!
-
-
- [Long piece on il Venerdì di Repubblica](https://www.carocci.it/wp-content/uploads/2022/07/venerdi21.4.23.pdf) (in Italian, April 2023)
-<br>
- [Book review by Giornale Trentino](https://www.giornaletrentino.it/scienza-e-tecnica/libri-la-scienza-che-insegna-alle-macchine-a-parlare-1.3399534) (in Italian, January 2023)
-
-
-
-The book is available on the [Carocci](https://www.carocci.it/prodotto/che-cose-la-linguistica-computazionale) website and also on [Amazon](https://amzn.eu/d/6Ifj7El)
-
-<hr>
-</div>
 
 
 ## News and Recent Events 
@@ -92,3 +76,13 @@ The book is available on the [Carocci](https://www.carocci.it/prodotto/che-cose-
 
 Some past events are listed [here](pastevents)
 
+  
+
+  
+<div class="grid__wrapper">
+
+	  <h2 id="highlights">Highlights</h2>
+
+	 {% include feature_row %}
+
+ </div>
