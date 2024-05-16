@@ -11,7 +11,7 @@ permalink: /book/
 An easy access introduction to Computational Linguistics which I wrote (in Italian) together with [Ludovica Pannitto](https://www.ellepannitto.it/), with amazing drawings by Myriam Nissim!
 
 
-<img hspace="60" src="/assets/images/book-full.jpeg" alt="cover" width="300" href="https://www.carocci.it/prodotto/che-cose-la-linguistica-computazionale" />
+<img hspace="30" src="/assets/images/book-full.jpeg" alt="cover" width="300" href="https://www.carocci.it/prodotto/che-cose-la-linguistica-computazionale" />
 
 
 
@@ -38,11 +38,13 @@ The book contains multiple illustrations drawn by Myriam Nissim for linguistic e
 
 <figure style="border: 10px" >
 <img src="/assets/images/svm-kernel.jpg" alt="kernel" width="600" />
-<figcaption>This is the image caption.</figcaption>
+<figcaption>SVM - the kernel trick</figcaption>
 </figure>
 
+<figure style="border: 10px" >
 <img align="center" src="/assets/images/rete-pesi.jpg" alt="rete" width="600" />
-
+<figcaption>Neural Network - weights</figcaption>
+</figure>
 
 
 
