@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Malvina Nissim
 email: m.nissim@rug.nl
-description: Professor in Computational Linguistics and Society at the University of Groningen.
+description: Professor of Computational Linguistics and Society at the University of Groningen.
 twitter_username: malvinanissim
 github_username: malvinanissim
 minimal_mistakes_skin: rug
@@ -68,7 +68,7 @@ scholar:
 author:
   name   : "Malvina Nissim"
   avatar : "assets/images/me-ww-small.jpeg"
-  bio    : "Professor in Computational Linguistics and Society at the University of Groningen."
+  bio    : "Professor of Computational Linguistics and Society at the University of Groningen."
   links:
     - label: "Twitter"
       icon: "fa-brands fa-x-twitter"
