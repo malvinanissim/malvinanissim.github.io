@@ -68,8 +68,8 @@ I work in Natural Language Processing and its application to societally relevant
 * "Women and Language Technology": Keynote at [Women in Data Science Belgium](https://www.womenindatascience.be/), Ghent, 17 May 2024. Slides are available [here](assets/WiDS-2024.pdf) 
 * As a member of the UNL working group on AI I participated in a panel at the [Digital Society conference in Utrecht](https://www.aanmelder.nl/153030/program) on April 25th
 * [Watch Your Language!](https://www.lorentzcenter.nl/watch-your-language-language-technology-and-words-in-society.html)  Interdisciplinary workshop at the [Lorentz Center](https://www.lorentzcenter.nl) in Leiden, April 8-12 2024
+* [A year with ChatGPT: Everything you need to know!](https://www.rug.nl/research/clcg/research/cl/research/a-year-with-chatgpt) Info event organised by GroNLP and the Humane AI team, in collaboration with (hosted by) the Jantina Tammes School. (Slides available at the link.)
 * The [HAICu project](https://www.rug.nl/research/icog/news/2023/vijf-letteren-onderzoekers-betrokken-bij-haicu-consortium?lang=en) is funded! I'm involved as co-applicant, and we are about to open a PhD position on it.
-* Keynote at [ESSLLI 2023](https://2023.esslli.eu/): [Plenary Evening Lecture](https://2023.esslli.eu/courses-workshops-accepted/week-1-and-2-schedule/evening-2.html), Ljubljana, Slovenia, August 2023 
 
 
 
