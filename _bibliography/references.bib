@@ -1,6 +1,59 @@
-@misc{rfp-2024-reference,
+@article{stopponi-diachronica-2024,
+   author = "Stopponi, Silvia and Pedrazzini, Nilo and Peels-Matthey, Saskia and McGillivray, Barbara and Nissim, Malvina",
+   title = "Natural Language Processing for Ancient Greek",
+   journal = "Diachronica",
+   issn = "0176-4225",
+   year = "2024",
+   publisher = "John Benjamins",
+   url = "https://www.jbe-platform.com/content/journals/10.1075/dia.23013.sto",
+   keywords = "semantic space",
+   keywords = "computational linguistics",
+   keywords = "semantic change",
+   keywords = "Natural Language Processing",
+   keywords = "word embeddings",
+   keywords = "Ancient Greek",
+   keywords = "language models",
+   abstract = "Computational methods have produced meaningful and usable results to study word semantics, including semantic
+					change. These methods, belonging to the field of Natural Language Processing, have recently been applied to ancient languages; in
+					particular, language modelling has been applied to Ancient Greek, the language on which we focus. In this contribution we explain
+					how vector representations can be computed from word co-occurrences in a corpus and can be used to locate words in a semantic space,
+					and what kind of semantic information can be extracted from language models. We compare three different kinds of language models
+					that can be used to study Ancient Greek semantics: a count-based model, a word embedding model and a syntactic embedding model;
+					and we show examples of how the quality of their representations can be assessed. We highlight the advantages and potential of
+					these methods, especially for the study of semantic change, together with their limitations."
+}
+
+@inproceedings{stopponi-ghent-2024,
+title = "Viability of Automatic Lexical Semantic Change Detection on a Diachronic Corpus of Literary Ancient Greek",
+abstract = "We apply two measures of lexical semantic change detection to Word2Vec embeddings trained on a diachronic corpus of literary Ancient Greek texts. The two measures are the Vector Coherence, based on the comparison between vectors of the same word in different time periods, and the J, based on the Jaccard coefficient, which quantifies the overlap between the k nearest neighbours in each possible combination of time slices. Through the analysis of the most stable and unstable words detected with both measures, we show that the two measures are effective at finding non-changed words, while Vector Coherence seems to be more reliable than J at detecting changed words. Still, low J could indicate a real semantic change when the same word also has a low Vector Coherence. For both measures, the detection of changed words is hampered by the presence of lemmatization errors in the training corpus.",
+keywords = "semantic change detection, Ancient Greek, language modelling, ancient language, word embeddings, word2vec",
+author = "Silvia Stopponi and Saskia Peels-Matthey and Malvina Nissim",
+year = "2024",
+month = jun,
+day = "27",
+language = "English",
+isbn = "9789078848127",
+pages = "47--57",
+editor = "Colin Swaelens and Maxime Deforche and {De Vos}, Ilse and Els Lefever",
+booktitle = "The First Workshop on Data-driven Approaches to Ancient Languages (DAAL 2024)",
+publisher = "Ghent University",
+note = "The First Workshop on Data-driven Approaches to Ancient Languages (DAAL 2024)<br/>, DAAL 2024 ; Conference date: 27-06-2024 Through 27-06-2024",
+url = "https://www.dbbe2024.ugent.be/workshop/",
+}
+
+@misc{stopponi-AGALMA-2024,
+title = "AGALMA, the Ancient Greek Accessible Language Models for linguistic Analysis",
+abstract = "The aim of the AGALMA web interface is to make language models trained on Ancient Greek available to all interested people, respectless of their coding skills.It allowes users to extract the nearest neighbours to lemmas of interest, to calculate the cosine similarity between two lemmas, to create a 3D graphic representation of a semantic space, and to access the Liddell-Scott-Jones dictionary.A FAQ section and extra documentation are also provided.",
+keywords = "language models, ancient Greek, interface",
+author = "Silvia Stopponi and {den Ouden}, Mark and Saskia Peels-Matthey and Malvina Nissim",
+year = "2024",
+language = "English",
+}
+
+
+@collection{rfp-2024-reference,
     title = "Proceedings of the First Workshop on Reference, Framing, and Perspective @ LREC-COLING 2024",
-    author = "Sommerauer, Pia  and
+    editor = "Sommerauer, Pia  and
       Caselli, Tommaso  and
       Nissim, Malvina  and
       Remijnse, Levi  and
@@ -13,22 +66,47 @@
 }
 
 
-
-@inproceedings{lai-etal-2024-mcot,
-    title = "mCoT: Multilingual Instruction Tuning for Reasoning Consistency in Language Models",
-    author = "Lai, Huiyuan and Nissim, Malvina",
-    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Main)",
-    year = {2024},
+@inproceedings{lai-nissim-2024-mcot,
+    title = "m{C}o{T}: Multilingual Instruction Tuning for Reasoning Consistency in Language Models",
+    author = "Lai, Huiyuan  and
+      Nissim, Malvina",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.649",
+    pages = "12012--12026",
+    abstract = "Large language models (LLMs) with Chain-of-thought (CoT) have recently emerged as a powerful technique for eliciting reasoning to improve various downstream tasks. As most research mainly focuses on English, with few explorations in a multilingual context, the question of how reliable this reasoning capability is in different languages is still open. To address it directly, we study multilingual reasoning consistency across multiple languages, using popular open-source LLMs. First, we compile the first large-scale multilingual math reasoning dataset, *mCoT-MATH*, covering eleven diverse languages. Then, we introduce multilingual CoT instruction tuning to boost reasoning capability across languages, thereby improving model consistency. While existing LLMs show substantial variation across the languages we consider, and especially low performance for lesser resourced languages, our 7B parameter model *mCoT* achieves impressive consistency across languages, and superior or comparable performance to close- and open-source models even of much larger sizes.",
 }
 
 
 
-@inproceedings{daniela-etal-2024-fine,
-    title = "Fine-tuning with HED-IT: The impact of human post-editing for dialogical language models",
-    author = "Daniela Occhipinti and Michele Marchi and Irene Mondella and Huiyuan Lai and Felice Dell'Orletta and Malvina Nissim and Marco Guerini",
-    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Findings)",
-    year = {2024},
+@inproceedings{occhipinti-etal-2024-fine,
+    title = "Fine-tuning with {HED}-{IT}: The impact of human post-editing for dialogical language models",
+    author = "Occhipinti, Daniela  and
+      Marchi, Michele  and
+      Mondella, Irene  and
+      Lai, Huiyuan  and
+      Dell{'}Orletta, Felice  and
+      Nissim, Malvina  and
+      Guerini, Marco",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.707",
+    pages = "11892--11907",
+    abstract = "Automatic methods for generating and gathering linguistic data have proven effective for fine-tuning Language Models (LMs) in languages less resourced than English. Still, while there has been emphasis on data quantity, less attention has been given to its quality. In this work, we investigate the impact of human intervention on machine-generated data when fine-tuning dialogical models. In particular, we study (1) whether post-edited dialogues exhibit higher perceived quality compared to the originals that were automatically generated; (2) whether fine-tuning with post-edited dialogues results in noticeable differences in the generated outputs; and (3) whether post-edited dialogues influence the outcomes when considering the parameter size of the LMs. To this end we created HED-IT, a large-scale dataset where machine-generated dialogues are paired with the version post-edited by humans. Using both the edited and unedited portions of HED-IT, we fine-tuned three different sizes of an LM. Results from both human and automatic evaluation show that the different quality of training data is clearly perceived and it has an impact also on the models trained on such data. Additionally, our findings indicate that larger models are less sensitive to data quality, whereas this has a crucial impact on smaller models. These results enhance our comprehension of the impact of human intervention on training data in the development of high-quality LMs.",
 }
+
 
 
 
@@ -1171,14 +1249,20 @@ institution={EU Horizon}
     abstract = "We participated to the SemEval-2018 shared task on capturing discriminative attributes (Task 10) with a simple system that ranked 8th amongst the 26 teams that took part in the evaluation. Our final score was 0.67, which is competitive with the winning score of 0.75, particularly given that our system is a zero-shot system that requires no training and minimal parameter optimisation. In addition to describing the submitted system, and discussing the implications of the relative success of such a system on this task, we also report on other, more complex models we experimented with.",
 }
 
-
-
-@book{nissim2018proceedings-peoples,
-  title={Proceedings of the Second Workshop on Computational Modeling of People’s Opinions, Personality, and Emotions in Social Media},
-  editor={Nissim, Malvina and Patti, Viviana and Plank, Barbara and Wagner, Claudia},
-  year={2018},
-publisher={Association for Computational Linguistics},
+@collection{ws-2018-modeling,
+    title = "Proceedings of the Second Workshop on Computational Modeling of People{'}s Opinions, Personality, and Emotions in Social Media",
+    editor = "Nissim, Malvina  and
+      Patti, Viviana  and
+      Plank, Barbara  and
+      Wagner, Claudia",
+    month = jun,
+    year = "2018",
+    address = "New Orleans, Louisiana, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W18-1100",
+    doi = "10.18653/v1/W18-11",
 }
+
 
 @book{shwartz2018proceedings,
   title={Proceedings of ACL 2018, Student Research Workshop},
