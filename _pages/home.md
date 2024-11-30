@@ -65,7 +65,7 @@ I work in Natural Language Processing and its application to societally relevant
 
 
 ## News and Recent Events 
-* Keynote at the 23rd International Conference of the Italian Association for Artificial Intelligence [AIXIA 2024](https://aixia2024.events.unibz.it/) in Bolzano. Slides are available [here](assets/AIXIA-talk-MN.pdf)
+* Keynote at the 23rd International Conference of the Italian Association for Artificial Intelligence [AIXIA 2024](https://aixia2024.events.unibz.it/) in Bolzano. Slides are available [here](assets/AIXIA-talk-MN.pdf) (please note that taken outside of my actual presentation's context, the message they're supposed to convey could be misunderstood.)
 * "Women and Language Technology": Keynote at [Women in Data Science Belgium](https://www.womenindatascience.be/), Ghent, 17 May 2024. Slides are available [here](assets/WiDS-2024.pdf) 
 * As a member of the UNL working group on AI I participated in a panel at the [Digital Society conference in Utrecht](https://www.aanmelder.nl/153030/program) on April 25th
 * [Watch Your Language!](https://www.lorentzcenter.nl/watch-your-language-language-technology-and-words-in-society.html)  Interdisciplinary workshop at the [Lorentz Center](https://www.lorentzcenter.nl) in Leiden, April 8-12 2024
