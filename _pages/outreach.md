@@ -10,9 +10,9 @@ excerpt: "<br><br>"
 ## Selection of Public Lectures
 
 * [Women in Data Science Ghent](https://www.womenindatascience.be/), May 2024.
-* [Women in Data Science Zürich](https://www.wids.ch/highlights2023), April 2023.
+* [Women in Data Science Zürich](https://www.wids.ch/highlights2023), April 2023. [Video](https://www.youtube.com/watch?v=yrXUetGrrZw)
 * [European Researchers’ Night](https://www.rug.nl/about-ug/latest-news/events/calendar/2022/europese-nacht-van-de-onderzoekers?lang=en), Vrouw & Wetenschap (headline act): “Digital Inclusion”, Forum Groningen, September 2022 ([Programme](https://www.rug.nl/about-ug/latest-news/events/calendar/2022/0822-europese-nacht-programma-en.pdf))
-* [Koninklijk Natuurkundig Genootschap Groningen](https://www.kng-groningen.nl/lezing-1853-prof-dr-malvina-nissim/) The Perks and Perils of Language Technology, May 2022 [video](https://www.youtube.com/watch?v=7ofPAHN2NU8)
+* [Koninklijk Natuurkundig Genootschap Groningen](https://www.kng-groningen.nl/lezing-1853-prof-dr-malvina-nissim/) The Perks and Perils of Language Technology, May 2022. [Video](https://www.youtube.com/watch?v=7ofPAHN2NU8)
 * Dutch Women’s Network at the EU (BrusselsNV), Brussels (online), Belgium, March 2021
 * [International Women’s Day – European Council](https://www.consilium.europa.eu/en/documents-publications/library/library-blog/posts/gender-bias-in-artificial-intelligence/), Brussels (online), Belgium, 8 March 2021. "To mark International Women's Day, the General Secretariat of the Council has invited **Malvina Nissim, Professor of Computational Linguistics at the University of Groningen**, to give a presentation. Professor Nissim, whose research focuses on the interaction between human-made data and machine learning, will talk about **how and to what extent human prejudices can be removed from AI**."
 * Universiteit van Nederland, Amsterdam, Netherlands (recorded 28 Oct 2019)
