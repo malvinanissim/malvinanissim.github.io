@@ -65,6 +65,8 @@ I work in Natural Language Processing and its application to societally relevant
 
 
 ## News and Recent Events 
+
+* [AI and freedom of speech](https://www.rug.nl/about-ug/latest-news/news/archief2025/nieuwsberichten/0501-ai-press-nissim?lang=en), a short piece I wrote on *writing* for World Press Freedom Day, May 3rd 2025.
 * Gosse Minnema won the [Anéla/AVT Dissertation Prize](https://anela.nl/en/prijzen/dissertatieprijs/#winner-avt-anela-phd-dissertation-prize-2024-2), with his thesis titled [Perspective matters: event framing in language and society](https://pure.rug.nl/ws/portalfiles/portal/999190211/Complete_thesis.pdf)]! It makes me a really proud supervisor.
 * Keynote at the [Grote Taaldag 2025](https://anela.nl/en/activiteiten/grote-taaldag/) (the Dutch Annual Linguistics Day) in Utrecht, 31 January 2025. Slides are available [here](assets/GroteTaalDag2025-MN.pdf) as a pdf (please note that taken outside of my actual presentation's context, the message they're supposed to convey could be misunderstood.)
 * Keynote at the 23rd International Conference of the Italian Association for Artificial Intelligence [AIXIA 2024](https://aixia2024.events.unibz.it/) in Bolzano. Slides are available [here](assets/AIXIA-talk-MN.pdf) as a pdf (please note that taken outside of my actual presentation's context, the message they're supposed to convey could be misunderstood.)
