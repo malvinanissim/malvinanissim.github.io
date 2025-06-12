@@ -27,6 +27,13 @@ feature_row:
     btn_class: btn--primary
 ---
 
+# Turning 50
+
+It's 2025, and it happened.
+
+<img hspace="30" src="/assets/50-cover.jpg" alt="cover" border="1px" width="300" href="link" />
+
+
 Besides two amazing kids and wonderful friends I have three more outlets to survive my full time job:
 <div class="grid__wrapper">
   <!-- <h2 id="highlights">Highlights</h2> -->
