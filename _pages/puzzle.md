@@ -1,7 +1,7 @@
 ---
 toc: false
 title: Puzzled by ChatGPT? No more!
-custom_css: https://malvinanissim.github.io/assets/css/main.css
+template: custom
 permalink: /puzzle/
 ---
 
