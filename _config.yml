@@ -131,3 +131,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+collections:
+  puzzle:
+    output: true
+    permalink: /puzzle/:name/
