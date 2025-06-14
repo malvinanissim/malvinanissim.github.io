@@ -1,7 +1,7 @@
 ---
 toc: false
 title: Puzzled by ChatGPT? No more!
-template: custom
+layout: custom
 permalink: /puzzle/
 ---
 
