@@ -1,6 +1,7 @@
 ---
 toc: false
 title: "Puzzled by ChatGPT? No more!"
+custom_css: "https://malvinanissim.github.io/assets/css/main.css"
 permalink: /puzzle/
 header:
   overlay_image: https://malvinanissim.github.io/assets/images/pisa2.jpg
@@ -28,7 +29,6 @@ feature_row:
     btn_class: btn--primary
 ---
 
-<link rel="stylesheet" href="https://malvinanissim.github.io/assets/css/main.css"/>
 
 We made a wonderful puzzle 
 
