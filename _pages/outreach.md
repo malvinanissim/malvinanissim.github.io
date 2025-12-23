@@ -7,6 +7,11 @@ header:
   caption: WiDS Zürich 2023
 excerpt: "<br><br>"
 ---
+## Puzzle!
+
+We made a **jigsaw puzzle** in collaboration with sketch artist Maaike Hartjes to stimulate AI literacy and playful though serious reflections on advantages and perils of LLMs.
+[Check it out!](https://www.aipuzzle.io) 
+
 ## Selection of Public Lectures
 
 * [Women in Data Science Ghent](https://www.womenindatascience.be/), May 2024.
