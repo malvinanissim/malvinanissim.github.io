@@ -9,8 +9,9 @@ excerpt: "<br><br>"
 ---
 ## Puzzle!
 
-We made a **jigsaw puzzle** in collaboration with sketch artist Maaike Hartjes to stimulate AI literacy and playful though serious reflections on advantages and perils of LLMs.
-[Check it out!](https://www.aipuzzle.io) 
+We made a **jigsaw puzzle** in collaboration with sketch artist [Maaike Hartjes](https://maaikehartjes.nl/) to stimulate AI literacy and playful yet serious reflections on advantages and perils of LLMs. The various parts which make up the puzzle's picture were created in a live collaborative session - read about it [here](https://aipuzzle.io/about). Find all info at the main [puzzle website](https://aipuzzle.io). 
+
+
 
 ## Selection of Public Lectures
 
