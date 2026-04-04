@@ -1,14 +1,11 @@
 ---
 toc: false
 title: Puzzled by ChatGPT? No more!
-layout: custom
+layout: single
+author_profile: false
+custom_css: true
 permalink: /puzzle/
 ---
 
 
-<ul>
-  {% for resource in site.puzzle %}
-    <li><a href="{{ puzzle.url }}">{{ puzzle.title }}</a></li>
-  {% endfor %}
-</ul>
 
