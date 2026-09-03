@@ -52,10 +52,14 @@ feature_row:
 I work in Natural Language Processing and its application to societally relevant problems. Besides my research activities I am particularly active in science communication and outreach, including to school children, especially towards an aware and responsible use of language technologies. I really enjoy public speaking, and once I got to give a [TEDx talk](https://www.youtube.com/watch?v=NcyTQK-FaMM). I was also invited by the European Council to give a plenary lecture on gender bias in Artificial Intelligence on International Women's Day 2021. As a university professor I teach quite a bit, and I love it - proud to be elected as the 2016 University of Groningen [Lecturer of the Year](https://www.rug.nl/news/2017/01/dr.-malvina-nissim-elected-lecturer-of-the-year). 
 
 
+> - I am PC Chair for [EACL 2027](https://2027.eacl.org/)
 > - I am the coordinator of the [Sectorplan](https://www.rug.nl/research/research-let/sectorplan-website/)'s theme [*Humane AI*](https://www.rug.nl/research/research-let/sectorplan-website/humaneai/) at the University of Groningen
-> - I am a member of the [ACL Ethics Committee](https://www.aclweb.org/portal/content/acl-establishes-its-ethics-committee)
 > - I am a member of the Scientific Advisory Board of the [Jantina Tammes School for Digital Society, Technology, and AI](https://www.rug.nl/jantina-tammes-school/?lang=en) at the University of Groningen
-> - I am a member of the board of [AILC](https://www.ai-lc.it/en/), the Italian Association for Computational Linguistics 
+
+<hr>
+
+> - I was a member of the board of [AILC](https://www.ai-lc.it/en/), the Italian Association for Computational Linguistics (2019-2025)
+> - I was a member of the [ACL Ethics Committee](https://www.aclweb.org/portal/content/acl-establishes-its-ethics-committee) (2022-2024)
 
 
 <hr>
