@@ -90,6 +90,7 @@ I work in Natural Language Processing and its application to societally relevant
 	* TIGRO! We participated in the [FadeIT](https://sites.google.com/fbk.eu/fadeit2026) shared task and our system ranked 1st in Task A! Paper: Stefano Atzeni, Gabriele Sarti, Tommaso Caselli, Malvina Nissim. [TIGRO at FadeIT: E Pluribus Unum – A Multi-task Approach to Fallacy Detection and Span Identification](https://aclanthology.org/2026.evalita-1.67/) 
 	
 
+
 *  From January 15th until March 13th I visited [ILLC - School of Informatics, the University of Edinburgh](https://informatics.ed.ac.uk/ilcc). Returning to Edinburgh, 20 years after leaving, having spent five years living here, was a true gift. Thanks to Huawei for their generous fellowship within the Informatics-Huawei Distinguished Visitor Scheme. 
 
 ## Older news and events
