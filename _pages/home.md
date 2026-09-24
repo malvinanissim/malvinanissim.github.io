@@ -70,6 +70,24 @@ I work in Natural Language Processing and its application to societally relevant
 
 ## News and Recent Events 
 
+* I will deliver a keynote at [INLG in Utrecht](https://2026.inlgmeeting.org/), October 2026.
+
+* I am just back from CLiC-it 2026 in Palermo, where we presented the following papers:
+	- Malvina Nissim [Language, Language Models, and What We're Talking About](https://arxiv.org/abs/2609.03577), a position paper I particularly care about.
+    - Sara Candussio, Francesca Padovani, Daniel Scalena, Malvina Nissim. ["Don't Say It!": Constraints, Compliance, and Communication when Language Models Play Taboo](https://arxiv.org/abs/2607.00601)
+    - Cristiano Ciaccio, Asya Zanollo, Alessio Miaschi, Gabriele Sarti, Felice Dell’Orletta, Malvina Nissim. [Reading Between the Clues: A Fine-Grained Analysis of Italian Crossword Solving Systems](https://clic2026.unipa.it/wp-content/uploads/2026/09/24_main_long.pdf)
+    
+* I participated for the first time in the [IEEE Conference on Games, CoG 2026 in Madrid](https://cog2026.org/), where I presented work on LLMs solving Dr Denker rebuses! 
+
+* Gabriele Sarti won the [EAMT Best Dissertation Prize](https://eamt.org/best-thesis-award/) with his thesis titled [From Insights to Impact: Actionable Interpretability for Neural Machine Translation](https://research.rug.nl/en/publications/from-insights-to-impact-actionable-interpretability-for-neural-ma/). Proud supervisor once more!
+
+* I wasn't physically at [EVALITA 2026](https://www.evalita.it/campaigns/evalita-2026/) in Bari in February 2026, unfortunately, but I was there anyway with:
+	* The organisation of [Cruciverb-IT](https://sites.google.com/view/cruciverbit2026). Paper: Cristiano Ciaccio, Gabriele Sarti, Alessio Miaschi, Felice Dell’Orletta, Malvina Nissim [Cruciverb-IT at EVALITA 2026: Overview of the Crossword Solving in Italian Task](https://aclanthology.org/2026.evalita-1.36/)
+	* TIGRO! We participated in the [FadeIT](https://sites.google.com/fbk.eu/fadeit2026) shared task and our system ranked 1st in Task A! Paper: Stefano Atzeni, Gabriele Sarti, Tommaso Caselli, Malvina Nissim. [TIGRO at FadeIT: E Pluribus Unum – A Multi-task Approach to Fallacy Detection and Span Identification](https://aclanthology.org/2026.evalita-1.67/) 
+	
+
+## Older news and events
+
 * [AI and freedom of speech](https://www.rug.nl/about-ug/latest-news/news/archief2025/nieuwsberichten/0501-ai-press-nissim?lang=en), a short piece I wrote on *writing* for World Press Freedom Day, May 3rd 2025.
 * Gosse Minnema won the [Anéla/AVT Dissertation Prize](https://anela.nl/en/prijzen/dissertatieprijs/#winner-avt-anela-phd-dissertation-prize-2024-2), with his thesis titled [Perspective matters: event framing in language and society](https://pure.rug.nl/ws/portalfiles/portal/999190211/Complete_thesis.pdf)! It makes me a really proud supervisor.
 * Keynote at the [Grote Taaldag 2025](https://anela.nl/en/activiteiten/grote-taaldag/) (the Dutch Annual Linguistics Day) in Utrecht, 31 January 2025. Slides are available [here](assets/GroteTaalDag2025-MN.pdf) as a pdf (please note that taken outside of my actual presentation's context, the message they're supposed to convey could be misunderstood.)
@@ -83,9 +101,8 @@ I work in Natural Language Processing and its application to societally relevant
 
 
 
-## Past events
 
-Some past events are listed [here](pastevents)
+Some more past events are listed [here](pastevents)
 
   
 
