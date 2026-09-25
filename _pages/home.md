@@ -76,7 +76,9 @@ I work in Natural Language Processing and its application to societally relevant
 	- Malvina Nissim [Language, Language Models, and What We're Talking About](https://arxiv.org/abs/2609.03577), a position paper I particularly care about.
     - Sara Candussio, Francesca Padovani, Daniel Scalena, Malvina Nissim. ["Don't Say It!": Constraints, Compliance, and Communication when Language Models Play Taboo](https://arxiv.org/abs/2607.00601)
     - Cristiano Ciaccio, Asya Zanollo, Alessio Miaschi, Gabriele Sarti, Felice Dell’Orletta, Malvina Nissim. [Reading Between the Clues: A Fine-Grained Analysis of Italian Crossword Solving Systems](https://clic2026.unipa.it/wp-content/uploads/2026/09/24_main_long.pdf)
-    
+
+
+
 * At the beginning of September I participated for the first time in the [IEEE Conference on Games, CoG 2026 in Madrid](https://cog2026.org/), where I presented work on LLMs solving Dr Denker rebuses! 
 
 * **CALAMITA** is published in IJCOL, the Italian Journal of Computational Linguistics! I coordinated the large-scale collaborative paper [Challenging the Abilities of Large Language Models in Italian: a Community Initiative](https://journals.openedition.org/ijcol/1813), bringing together more than 80 contributors around a community-driven benchmark for evaluating LLMs in Italian.
@@ -86,9 +88,9 @@ I work in Natural Language Processing and its application to societally relevant
 * **Best Paper Award** at [TeachNLP 2026 @ EACL](https://sites.google.com/view/teachingnlp-eacl-2026) for [Practising Responsibility: Ethics in NLP as a Hands-on Course](https://aclanthology.org/2026.teachingnlp-1.14/), with Viviana Patti and Beatrice Savoldi, March 2026.
 
 * I wasn't physically at [EVALITA 2026](https://www.evalita.it/campaigns/evalita-2026/) in Bari in February 2026, unfortunately, but I was there anyway with:
-	* The organisation of [Cruciverb-IT](https://sites.google.com/view/cruciverbit2026). Paper: Cristiano Ciaccio, Gabriele Sarti, Alessio Miaschi, Felice Dell’Orletta, Malvina Nissim [Cruciverb-IT at EVALITA 2026: Overview of the Crossword Solving in Italian Task](https://aclanthology.org/2026.evalita-1.36/)
-	* TIGRO! We participated in the [FadeIT](https://sites.google.com/fbk.eu/fadeit2026) shared task and our system ranked 1st in Task A! Paper: Stefano Atzeni, Gabriele Sarti, Tommaso Caselli, Malvina Nissim. [TIGRO at FadeIT: E Pluribus Unum – A Multi-task Approach to Fallacy Detection and Span Identification](https://aclanthology.org/2026.evalita-1.67/) 
-	
+	- The organisation of [Cruciverb-IT](https://sites.google.com/view/cruciverbit2026). Paper: Cristiano Ciaccio, Gabriele Sarti, Alessio Miaschi, Felice Dell’Orletta, Malvina Nissim [Cruciverb-IT at EVALITA 2026: Overview of the Crossword Solving in Italian Task](https://aclanthology.org/2026.evalita-1.36/)
+	- TIGRO! We participated in the [FadeIT](https://sites.google.com/fbk.eu/fadeit2026) shared task and our system ranked 1st in Task A! Paper: Stefano Atzeni, Gabriele Sarti, Tommaso Caselli, Malvina Nissim. [TIGRO at FadeIT: E Pluribus Unum – A Multi-task Approach to Fallacy Detection and Span Identification](https://aclanthology.org/2026.evalita-1.67/) 
+
 
 
 *  From January 15th until March 13th I visited [ILLC - School of Informatics, the University of Edinburgh](https://informatics.ed.ac.uk/ilcc). Returning to Edinburgh, 20 years after leaving, having spent five years living here, was a true gift. Thanks to Huawei for their generous fellowship within the Informatics-Huawei Distinguished Visitor Scheme. 

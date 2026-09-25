@@ -36,6 +36,10 @@ I've run a few half-marathons, and I still dream of running a marathon. Maybe at
 
 As a way to push myself, and as a reminder that running makes me always feel good, I set up a tradition whereby I run every January 1st, GPS-drawing the new year. Here are those I've created.
 
+|<img src="/assets/images/2026.jpg" alt="2025" width="300">|
+|:--:| 
+|*1 Jan 2026, Pisa (9k)*|
+
 
 |<img src="/assets/images/2025.jpg" alt="2025" width="300">|
 |:--:| 
